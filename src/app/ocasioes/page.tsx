@@ -21,8 +21,8 @@ export default function OcasioesPage() {
     <>
       <PageHeader
         title="Ocasiões"
-        eyebrow="Escolha pelo momento"
-        description="Cada página reúne o que a flor costuma dizer nesta data, critérios práticos de escolha (orçamento, transporte, tempo de vida em vaso) e as flores que aparecem de futo no Brasil."
+        eyebrow="Momentos"
+        description="Datas grandes e pequenas, com o que levar, quando entregar e como não errar o tom — do pedido de desculpas ao pedido de casamento."
         breadcrumbs={[{ name: "Ocasiões", path: "/ocasioes" }]}
       />
 

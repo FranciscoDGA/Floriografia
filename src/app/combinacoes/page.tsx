@@ -21,8 +21,8 @@ export default function CombinacoesPage() {
     <>
       <PageHeader
         title="Combinações"
-        eyebrow="Arranjos com intenção"
-        description="Combinar flores é somar mensagens e contrastar formas. Cada combinação lista as espécies envolvidas e uma dica prática de montagem."
+        eyebrow="Duas flores, uma conversa"
+        description="Duas flores dizem mais que uma — quando sabem conversar. Veja quais se combinam, por que funcionam juntas e como montar o arranjo sem errar o tom."
         breadcrumbs={[{ name: "Combinações", path: "/combinacoes" }]}
       />
 

@@ -12,6 +12,7 @@ import {
   getFlowersBySlugs,
   getMeaningsBySlugs,
   getOccasionsBySlugs,
+  getReadingMinutes,
 } from "@/lib/content";
 import { articleJsonLd, breadcrumbJsonLd, faqJsonLd } from "@/lib/jsonld";
 import { pageMetadata } from "@/lib/seo";
@@ -64,7 +65,7 @@ export default async function ArticlePage({ params }: Props) {
 
       <article className="container-page max-w-3xl pb-16">
         <p className="text-sm text-ink-2">
-          Atualizado em{" "}
+          {getReadingMinutes(article)} min de leitura · atualizado em{" "}
           <time dateTime={article.updatedAt}>
             {new Date(article.updatedAt + "T12:00:00").toLocaleDateString("pt-BR")}
           </time>

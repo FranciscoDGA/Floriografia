@@ -8,9 +8,9 @@ const envUrl = process.env.NEXT_PUBLIC_SITE_URL;
 
 export const SITE = {
   name: "Floriografia",
-  tagline: "A linguagem das flores",
+  tagline: "A linguagem antiga do amor",
   description:
-    "Base de conhecimento brasileira sobre flores: significados, cores, aromas, ocasiões, cuidados e combinações para escolher bem cada flor.",
+    "A flor certa para cada gesto: conquistar, pedir desculpas, declarar, reatar ou presenteá-la sem motivo. Significado das flores, buquês e ideias de presente à moda antiga — com romance e intenção.",
   /** Normalizada, sem barra final. */
   url: (envUrl || "https://floriografia.vercel.app").replace(/\/+$/, ""),
   locale: "pt_BR",
@@ -31,11 +31,11 @@ export function absoluteUrl(path = "/"): string {
 }
 
 export const NAV_ITEMS = [
+  { href: "/gestos", label: "Gestos" },
   { href: "/flores", label: "Flores" },
   { href: "/significados", label: "Significados" },
-  { href: "/cores", label: "Cores" },
   { href: "/ocasioes", label: "Ocasiões" },
-  { href: "/caracteristicas", label: "Características" },
+  { href: "/cores", label: "Cores" },
   { href: "/combinacoes", label: "Combinações" },
   { href: "/guias", label: "Guias" },
 ] as const;

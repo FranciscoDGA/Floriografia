@@ -21,8 +21,8 @@ export default function CaracteristicasPage() {
     <>
       <PageHeader
         title="Características"
-        eyebrow="Filtros práticos"
-        description="Não é o que a flor significa, é o que ela aguenta e entrega: perfume, resistência, porte, ambiente e cuidados de segurança."
+        eyebrow="Na prática"
+        description="Nem tudo é simbolismo: tem flor de perfume que acorda a casa inteira, flor que dura semanas e flor que não aguenta sol de meio-dia. Filtre pelo que a flor faz na prática."
         breadcrumbs={[{ name: "Características", path: "/caracteristicas" }]}
       />
 

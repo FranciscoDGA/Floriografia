@@ -1,8 +1,10 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 
 import { CategoryCard } from "@/components/category-card";
 import { FlowerCard } from "@/components/flower-card";
+import { GestoMedia } from "@/components/gesto-media";
 import { JsonLd } from "@/components/json-ld";
 import { Section } from "@/components/section";
 import { SearchBox } from "@/components/search-box";
@@ -11,10 +13,12 @@ import {
   getAllArticles,
   getAllColors,
   getAllFlowers,
+  getAllGestos,
   getAllMeanings,
   getAllOccasions,
 } from "@/lib/content";
 import { websiteJsonLd } from "@/lib/jsonld";
+import { heroPhoto } from "@/lib/imagens";
 import { absoluteUrl, SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
@@ -23,14 +27,15 @@ export const metadata: Metadata = {
 };
 
 const SEARCH_EXAMPLES = [
-  { emoji: "🌹", label: "Qual o significado da rosa vermelha?", query: "significado rosa vermelha" },
-  { emoji: "💐", label: "Que flor dar para minha mãe?", query: "dia das mães" },
-  { emoji: "❤️", label: "Qual flor representa amor?", query: "amor" },
+  { emoji: "🌹", label: "flores para conquistar", query: "flores para conquistar" },
+  { emoji: "💌", label: "pedir desculpas com flores", query: "pedir desculpas" },
+  { emoji: "💍", label: "quantas rosas para declarar", query: "quantas rosas" },
 ];
 
 export default function HomePage() {
   const flowers = getAllFlowers();
   const featured = flowers.slice(0, 8);
+  const gestos = getAllGestos();
   const meanings = getAllMeanings();
   const occasions = getAllOccasions();
   const colors = getAllColors();
@@ -40,17 +45,20 @@ export default function HomePage() {
     <>
       <JsonLd data={websiteJsonLd()} />
 
-      {/* Hero */}
+      {/* Hero: a intenção vem primeiro */}
       <section className="border-b border-line bg-gradient-to-b from-paper-2 to-paper">
         <div className="container-page grid gap-10 py-16 md:py-24 lg:grid-cols-[1.15fr_1fr] lg:items-center">
           <div>
-            <p className="text-xs font-semibold uppercase tracking-[0.3em] text-bloom">Floriografia</p>
+            <p className="text-xs font-semibold uppercase tracking-[0.3em] text-bloom">{SITE.tagline}</p>
             <h1 className="mt-4 font-display text-4xl font-semibold leading-[1.05] tracking-tight text-leaf md:text-6xl">
-              A linguagem das flores.
+              Você veio dizer algo.
+              <br />
+              Temos a flor certa.
             </h1>
             <p className="mt-6 max-w-xl text-lg leading-relaxed text-ink-2">
-              Descubra o significado, a beleza e a história de cada flor — e encontre a flor certa para cada
-              momento.
+              Conquistar, pedir desculpas, declarar pela primeira vez, reatar, pedir a mão — ou presenteá-la numa
+              terça-feira, sem motivo nenhum. Aqui a escolha começa pelo <em className="font-medium text-ink">gesto</em>,
+              não pelo nome da espécie.
             </p>
 
             <div className="mt-8">
@@ -70,33 +78,75 @@ export default function HomePage() {
             </div>
           </div>
 
-          <aside aria-label="Números do acervo" className="grid grid-cols-2 gap-4">
-            {[
-              { value: flowers.length, label: "flores catalogadas" },
-              { value: meanings.length, label: "significados" },
-              { value: colors.length, label: "cores mapeadas" },
-              { value: occasions.length, label: "ocasiões" },
-            ].map((stat) => (
-              <div key={stat.label} className="rounded-2xl border border-line bg-white p-5">
-                <p className="font-display text-3xl font-semibold text-leaf">{stat.value}</p>
-                <p className="mt-1 text-sm text-ink-2">{stat.label}</p>
+          <aside aria-label="Sobre o acervo" className="overflow-hidden rounded-3xl border border-line bg-white p-7">
+            {heroPhoto && (
+              <div className="relative -mx-7 -mt-7 mb-6 aspect-[16/10]">
+                <Image
+                  src={heroPhoto}
+                  alt="Carta manuscrita ao lado de flores e renda, sobre a mesa"
+                  fill
+                  sizes="(min-width: 1024px) 40vw, 100vw"
+                  className="object-cover"
+                  priority
+                />
               </div>
-            ))}
+            )}
+            <p className="font-display text-2xl font-semibold leading-snug text-leaf">
+              “A flor mais bonita é a que alguém escolhe pensando em você.”
+            </p>
+            <p className="mt-3 text-sm leading-relaxed text-ink-2">
+              Somos um acervo independente de flores, significados e gestos — sem loja, sem venda, sem
+              afiliado. Só o que fazer, o que dizer e o que levar na mão.
+            </p>
+            <dl className="mt-6 grid grid-cols-2 gap-4 border-t border-line pt-5">
+              <div>
+                <dt className="text-xs uppercase tracking-wide text-ink-2">Gestos guiados</dt>
+                <dd className="font-display text-2xl font-semibold text-leaf">{gestos.length}</dd>
+              </div>
+              <div>
+                <dt className="text-xs uppercase tracking-wide text-ink-2">Flores catalogadas</dt>
+                <dd className="font-display text-2xl font-semibold text-leaf">{flowers.length}</dd>
+              </div>
+              <div>
+                <dt className="text-xs uppercase tracking-wide text-ink-2">Significados</dt>
+                <dd className="font-display text-2xl font-semibold text-leaf">{meanings.length}</dd>
+              </div>
+              <div>
+                <dt className="text-xs uppercase tracking-wide text-ink-2">Guias do coração</dt>
+                <dd className="font-display text-2xl font-semibold text-leaf">{articles.length}</dd>
+              </div>
+            </dl>
           </aside>
         </div>
       </section>
 
-      {/* Flores */}
+      {/* Gestos: a porta de entrada */}
       <Section
-        id="flores"
-        title="Explore as flores"
-        description="Cada página reúne identificação, cores, significado, aroma, época e cuidados."
-        href="/flores"
-        linkLabel={`Ver as ${flowers.length} flores`}
+        id="gestos"
+        title="O que você quer dizer?"
+        description="Comece por aqui. Cada gesto reúne as flores certas, a hora certa e o que falar junto."
+        href="/gestos"
+        linkLabel="Ver todos os gestos"
       >
-        <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
-          {featured.map((flower) => (
-            <FlowerCard key={flower.slug} flower={flower} />
+        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {gestos.map((gesto) => (
+            <Link
+              key={gesto.slug}
+              href={`/gestos/${gesto.slug}`}
+              className="group flex flex-col overflow-hidden rounded-2xl border border-line bg-white p-6 transition hover:-translate-y-0.5 hover:border-bloom/50"
+            >
+              <GestoMedia
+                slug={gesto.slug}
+                alt={`Foto do gesto ${gesto.name}`}
+                sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
+                className="-mx-6 -mt-6 mb-5 aspect-[16/9]"
+              />
+              <p className="text-xs font-semibold uppercase tracking-[0.18em] text-bloom">{gesto.name}</p>
+              <p className="mt-3 font-display text-lg font-semibold leading-snug text-leaf transition group-hover:text-bloom">
+                {gesto.hook}
+              </p>
+              <span className="mt-4 text-sm text-ink-2">Escolher as flores →</span>
+            </Link>
           ))}
         </div>
       </Section>
@@ -105,18 +155,13 @@ export default function HomePage() {
       <div className="bg-paper-2/70">
         <Section
           id="significados"
-          title="Descubra pelo significado"
-          description="O que você quer transmitir? Comece pela mensagem, não pela flor."
+          title="Pelo que você sente"
+          description="Antes da espécie, a mensagem: amor, saudade, perdão, gratidão, coragem."
           href="/significados"
         >
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-5">
             {meanings.map((meaning) => (
-              <CategoryCard
-                key={meaning.slug}
-                href={`/significados/${meaning.slug}`}
-                title={meaning.name}
-                count={undefined}
-              />
+              <CategoryCard key={meaning.slug} href={`/significados/${meaning.slug}`} title={meaning.name} />
             ))}
           </div>
         </Section>
@@ -125,8 +170,8 @@ export default function HomePage() {
       {/* Ocasiões */}
       <Section
         id="ocasioes"
-        title="Escolha pela ocasião"
-        description="Datas e momentos com critérios práticos de escolha."
+        title="Datas que pedem intenção"
+        description="O calendário dá a data; você dá o significado."
         href="/ocasioes"
       >
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
@@ -141,48 +186,60 @@ export default function HomePage() {
         </div>
       </Section>
 
-      {/* Cores */}
+      {/* Catálogo */}
       <div className="bg-paper-2/70">
         <Section
-          id="cores"
-          title="Descubra pelas cores"
-          description="A cor costuma dizer mais rápido que a espécie."
-          href="/cores"
+          id="flores"
+          title="Se você já sabe qual é"
+          description="40 flores com história, simbolismo, perfume e o cuidado que elas pedem."
+          href="/flores"
+          linkLabel={`Ver as ${flowers.length} flores`}
         >
-          <div className="grid gap-4 grid-cols-2 sm:grid-cols-3 lg:grid-cols-5">
-            {colors.map((color) => (
-              <CategoryCard
-                key={color.slug}
-                href={`/cores/${color.slug}`}
-                title={color.name}
-                hex={color.hex}
-              />
+          <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+            {featured.map((flower) => (
+              <FlowerCard key={flower.slug} flower={flower} />
             ))}
           </div>
         </Section>
       </div>
 
-      {/* Guias */}
+      {/* Cores */}
       <Section
-        id="guias"
-        title="Guias de escolha"
-        description="Leituras curtas para decidir com segurança — sem regras universais."
-        href="/guias"
+        id="cores"
+        title="Pelo que a cor já diz"
+        description="Vermelho fala depressa; branco pede silêncio; amarelo acende o dia."
+        href="/cores"
       >
-        <div className="grid gap-5 md:grid-cols-3">
-          {articles.map((article) => (
-            <Link
-              key={article.slug}
-              href={`/guias/${article.slug}`}
-              className="flex flex-col gap-3 rounded-2xl border border-line bg-white p-6 transition hover:-translate-y-0.5 hover:border-leaf/40"
-            >
-              <h3 className="font-display text-lg font-semibold text-leaf">{article.title}</h3>
-              <p className="text-sm leading-relaxed text-ink-2">{article.excerpt}</p>
-              <span className="mt-auto text-sm font-medium text-bloom">Ler guia</span>
-            </Link>
+        <div className="grid gap-4 grid-cols-2 sm:grid-cols-3 lg:grid-cols-5">
+          {colors.map((color) => (
+            <CategoryCard key={color.slug} href={`/cores/${color.slug}`} title={color.name} hex={color.hex} />
           ))}
         </div>
       </Section>
+
+      {/* Guias */}
+      <div className="bg-paper-2/70">
+        <Section
+          id="guias"
+          title="Leituras para quem vai dar"
+          description="Histórias, dúvidas e passo a passo — do primeiro buquê ao cartão que não sabe o que escrever."
+          href="/guias"
+        >
+          <div className="grid gap-5 md:grid-cols-3">
+            {articles.map((article) => (
+              <Link
+                key={article.slug}
+                href={`/guias/${article.slug}`}
+                className="flex flex-col gap-3 rounded-2xl border border-line bg-white p-6 transition hover:-translate-y-0.5 hover:border-leaf/40"
+              >
+                <h3 className="font-display text-lg font-semibold text-leaf">{article.title}</h3>
+                <p className="text-sm leading-relaxed text-ink-2">{article.excerpt}</p>
+                <span className="mt-auto text-sm font-medium text-bloom">Ler guia</span>
+              </Link>
+            ))}
+          </div>
+        </Section>
+      </div>
 
       {/* Qual Flor? */}
       <section className="border-t border-line bg-leaf text-white">
@@ -192,8 +249,9 @@ export default function HomePage() {
             <h2 className="mt-2 font-display text-3xl font-semibold">Ainda não sabe qual escolher?</h2>
             <p className="mt-3 text-white/75">
               O <strong className="font-semibold text-white">Qual Flor?</strong> será um roteiro de perguntas —
-              para quem é, o que você quer transmitir, orçamento e estação — que leva à flor indicada e às
-              alternativas. Enquanto isso, use os significados, as ocasiões e a busca.
+              para quem é, o que você quer transmitir, orçamento e estação — que leva à flor indicada. Enquanto
+              isso, comece por um <Link href="/gestos" className="underline underline-offset-4">gesto</Link> ou
+              use a busca.
             </p>
           </div>
           <Link
@@ -205,7 +263,9 @@ export default function HomePage() {
         </div>
       </section>
 
-      <p className="sr-only">{SITE.name}: {SITE.description}</p>
+      <p className="sr-only">
+        {SITE.name}: {SITE.description}
+      </p>
     </>
   );
 }

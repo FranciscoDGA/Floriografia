@@ -8,9 +8,9 @@ import { JsonLd } from "@/components/json-ld";
 import { pageMetadata } from "@/lib/seo";
 
 export const metadata: Metadata = pageMetadata({
-  title: "Flores: espécies, significados e cuidados",
+  title: "Flores: história, significado e o gesto certo",
   description:
-    "Catálogo de flores com nome científico, família, origem, cores, significados, ocasiões, aroma, cuidados e FAQ.",
+    "40 flores com nome científico, significado, perfume, época e cuidados — para escolher pensando em quem vai receber.",
   path: "/flores",
 });
 
@@ -22,8 +22,8 @@ export default function FloresPage() {
     <>
       <PageHeader
         title="Flores"
-        eyebrow="Enciclopédia"
-        description={`Acervo de ${flowers.length} flores organizado por entidades relacionadas: cada espécie liga-se a cores, significados, ocasiões, características e combinações — não a artigos soltos.`}
+        eyebrow="O acervo"
+        description={`Cada flor aqui tem uma história e um jeito de dizer. Encontre pela beleza, pelo perfume ou pela mensagem — e leve junto o que ela significa, como dura e com que gesto combina.`}
         breadcrumbs={[{ name: "Flores", path: "/flores" }]}
       />
 

@@ -21,8 +21,8 @@ export default function CoresPage() {
     <>
       <PageHeader
         title="Cores"
-        eyebrow="Linguagem das flores"
-        description="A cor costuma ser a primeira pista de uma mensagem. Aqui ela se conecta a significados, ocasiões e espécies que existem na realidade — sem associações forçadas."
+        eyebrow="Antes do nome, vem a cor"
+        description="É o que o olho entende primeiro. Veja o que cada tom costuma dizer — e quais flores carregam essa mensagem sem precisar de apresentação."
         breadcrumbs={[{ name: "Cores", path: "/cores" }]}
       />
 

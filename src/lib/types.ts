@@ -68,6 +68,32 @@ export interface Characteristic extends BaseEntity {
 }
 
 /* ------------------------------------------------------------------ */
+/* Gestos (intenções)                                                  */
+/* ------------------------------------------------------------------ */
+
+/**
+ * Um gesto é a intenção de quem dá: conquistar, pedir desculpas, declarar.
+ * É a camada de navegação principal do site — o leitor chega por aqui,
+ * não pelo catálogo.
+ */
+export interface Gesto extends BaseEntity {
+  /** Frase curta exibida no cartão e no herói. */
+  hook: string;
+  /** Parágrafos narrativos (voz romântica), 2 a 4. */
+  description: string[];
+  /** Orientação prática: o que observar ao escolher. */
+  guidance: string[];
+  /** Slugs de flores que traduzem bem este gesto. */
+  flowerSlugs: string[];
+  /** Slugs de significados envolvidos. */
+  meaningSlugs: string[];
+  /** Slug de ocasião relacionada, quando houver. */
+  occasionSlug?: string;
+  /** Slugs de guias relacionados. */
+  guideSlugs?: string[];
+}
+
+/* ------------------------------------------------------------------ */
 /* Florez                                                              */
 /* ------------------------------------------------------------------ */
 

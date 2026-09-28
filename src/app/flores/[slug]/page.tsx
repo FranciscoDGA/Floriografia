@@ -3,7 +3,7 @@ import { notFound } from "next/navigation";
 
 import { CategoryCard } from "@/components/category-card";
 import { FlowerCard } from "@/components/flower-card";
-import { FlowerVisual } from "@/components/flower-visual";
+import { FlowerMedia } from "@/components/flower-media";
 import { JsonLd } from "@/components/json-ld";
 import { PageHeader } from "@/components/page-header";
 import { TagLink } from "@/components/tag-link";
@@ -119,10 +119,11 @@ export default async function FlowerPage({ params }: Props) {
         <div className="min-w-0">
           {/* Identificação visual */}
           <div className="grid gap-6 md:grid-cols-[1fr_1.1fr] md:items-center">
-            <FlowerVisual
+            <FlowerMedia
+              slug={flower.slug}
               name={flower.name}
-              seed={flower.slug}
               hexes={colors.map((c) => c.hex)}
+              sizes="(min-width: 768px) 40vw, 100vw"
               className="aspect-square w-full rounded-3xl border border-line"
             />
             <div>

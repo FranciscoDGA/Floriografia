@@ -1,11 +1,12 @@
 import type { MetadataRoute } from "next";
 
-import { getAllArticles, getAllColors, getAllFlowers, getAllMeanings, getAllOccasions, getAllCharacteristics, getAllCombinations } from "@/lib/content";
+import { getAllArticles, getAllColors, getAllFlowers, getAllGestos, getAllMeanings, getAllOccasions, getAllCharacteristics, getAllCombinations } from "@/lib/content";
 import { absoluteUrl } from "@/lib/site";
 
 /** Páginas institucionais, editoriais e de navegação. */
 const STATIC_PATHS = [
   "/",
+  "/gestos",
   "/flores",
   "/significados",
   "/cores",
@@ -36,6 +37,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: now,
     changeFrequency: "monthly",
     priority: path === "/" ? 1 : 0.7,
+  }));
+
+  const gestoEntries = getAllGestos().map((gesto) => ({
+    url: absoluteUrl(`/gestos/${gesto.slug}`),
+    lastModified: new Date(gesto.updatedAt),
+    changeFrequency: "monthly" as const,
+    priority: 0.9,
   }));
 
   const flowerEntries = getAllFlowers().map((flower) => ({
@@ -89,6 +97,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   return [
     ...staticEntries,
+    ...gestoEntries,
     ...flowerEntries,
     ...meaningEntries,
     ...colorEntries,

@@ -13,19 +13,19 @@ export const flowersF1: Flower[] = [
     seo: {
       title: "Rosa: significado, cores e como cuidar",
       description:
-        "Descubra o significado das rosas por cor, a origem da flor mais tradicional do mundo e cuidados simples de rega, luz e poda em vaso ou canteiro.",
+        "Rosa vermelha para declarar, rosa branca para recomeçar e rosa amarela para o ciúme confessado: veja qual escolher quando o silêncio precisa virar palavra.",
     },
     summary:
-      "A rosa clássica dos jardins, unida a séculos de tradição simbólica e de cultivo em todo o mundo.",
+      "Poucos gestos dispensam explicação quando uma rosa vermelha chega: ela fala o que a boca trava antes da declaração.",
     intro:
-      "O gênero Rosa reúne centenas de espécies e milhares de cultivares, e poucas flores têm tanta presença na vida cotidiana quanto ela. As rosas modernas vêm de cruzamentos longos entre espécies asiáticas e europeias, o que explica a enorme variedade de cores, tamanhos e perfume. No Brasil, elas aparecem em jardins, canteiros e vasos, e seguem sendo a flor mais pedida em ocasiões afetivas do ano.",
+      "Há séculos ninguém precisa explicar por que a rosa chega numa declaração. Ela foi a flor das cartas assinadas às escondidas, das promessas feitas na porta da casa e das reconciliações que começavam com um buquê e um silêncio comprido. Escolher uma rosa é assumir um lado na conversa: o de quem prefere arriscar o constrangimento a deixar o outro sem saber. Até a cor escolhida costuma dizer mais do que o discurso que vem depois.",
     description: [
       "A rosa é um arbusto da família Rosaceae, com folhas compostas e espinhos nas hastes. Existem formas rasteiras, arbustivas e trepadeiras, o que permite uso em canteiro, em vaso e em pergolados. Ela prefere sol pleno e boa circulação de ar, com rega regular no solo sem encharcar.",
       "Depois da colheita, a rosa dura melhor se o talo for cortado em água e a folhagem submersa for removida. Trocar a água com frequência ajuda. Na planta, a poda de manutenção depois da floração estimula novos brotos e mantém a copa arejada, reduzindo ataques de fungos.",
       "No uso floral, a rosa funciona sozinha em um buquê simples ou combinada com folhagens e flores de preenchimento. Rosas de talo longo são as preferidas para arranjos, enquanto as de canteiro trazem cor ao longo de toda a estação quente. A escolha entre variedades de flor simples ou dobrada muda bastante o visual final.",
     ],
     symbolism:
-      "Na tradição ocidental, a rosa vermelha costuma ser lida como declaração de amor, enquanto a branca associa-se a pureza e a amarela a ciúmes, segundo o uso simbólico consolidado nos manuais de floriografia do século XIX. Vale lembrar que esses significados são convenções culturais e mudam conforme o contexto, a região e a relação entre quem dá e quem recebe.",
+      "Na tradição ocidental, a rosa vermelha costuma ser lida como declaração direta, a branca como afeto limpo e a amarela, segundo muitos manuais de floriografia do século XIX, como ciúme confessado. Diz-se que uma rosa de espinhos falava de paixão com obstáculo e que o botão fechado guardava um amor ainda novo. Para muitas culturas, porém, a mesma cor muda de sentido conforme a ocasião e a relação de quem dá com quem recebe.",
     colors: ["vermelho", "branco", "rosa"],
     meanings: ["amor", "admiracao", "carinho"],
     occasions: ["dia-dos-namorados", "dia-das-maes", "pedido-de-namoro"],
@@ -92,19 +92,19 @@ export const flowersF1: Flower[] = [
     seo: {
       title: "Tulipa: significado, cores e como cuidar",
       description:
-        "Saiba tudo sobre a tulipa, da origem na Ásia Central ao boom holandês: cores, significados tradicionais, floração e cuidados em vaso ou canteiro.",
+        "Recomeço sem forçar a conversa tem flor própria: veja por que a tulipa é a escolha de quem quer reatar de novo e como a cor muda a mensagem enviada por você.",
     },
     summary:
-      "Bulbosa da Ásia Central que virou símbolo da Holanda, com cores intensas e floração efêmera da primavera.",
+      "Chegada com poucas palavras, a tulipa diz respeito e recomeço — gesto de quem quer reatar sem dramalhão.",
     intro:
-      "A tulipa é uma planta bulbosa do gênero Tulipa, pertencente à família Liliaceae, e sua história está ligada às montanhas da Ásia Central. O bulbo chegou à Europa no fim do século XVI e provocou uma verdadeira febre na Holanda no século XVII, quando exemplares raros chegaram a ser negociados como bens de prestígio. Hoje, a planta é cultivada em canteiros e em vasos, e suas flores em forma de cálice marcam a transição para a primavera.",
+      "Quem quer recomeçar sem forçar a conversa costuma escolher a tulipa. Ela chega em um punhado, não pede discurso, e a curva do talo em direção à luz faz seu trabalho de dizer que ainda há movimento do outro lado. O gesto é discreto: um ramo na porta, uma nota curta, um silêncio que já não é cobrança. Para muita gente, esse é o jeito mais seguro de dizer que ainda se quer tentar de novo.",
     description: [
       "As tulipas formam um grupo com muitas variedades, reconhecidas pela flor em formato de cálice e por folhas longas de tom azulado. Elas se dividem em grupos de floração e de formato diferentes, o que permite combinações de época no jardim. A planta é bulbosa: o bulbo guarda a reserva de energia para a floração seguinte.",
       "Em canteiro, o plantio acontece quando o solo já está mais frio, e a folhagem precisa de sol e de um período de repouso depois da flor murchar, enquanto as folhas amarelecem. Em vaso, atenção redobrada à drenagem: o bulbo apodrece facilmente em substrato encharcado. A planta prefere regas moderadas e local aberto.",
       "Como flor cortada, a tulipa continua crescendo levemente depois de colocada no vaso e tende a curvar-se em direção à luz. Ela dura menos que flores de talo mais rígidos, mas compensa com a intensidade das cores. Em arranjos, combina bem com flores simples e com folhagens de porte discreto.",
     ],
     symbolism:
-      "Na tradição ocidental, a tulipa costuma-se associar a primavera, renovação e afeto gentil; durante a febre das tulipas na Holanda, no século XVII, exemplares raros também chegaram a simbolizar riqueza e estatus. Segundo o uso tradicional, cada cor refina a leitura, com o vermelho próximo da declaração de amor. São leituras culturais, não significados fixos.",
+      "Na tradição que veio dos jardins da Ásia Central e da febre holandesa do século XVII, a tulipa costuma ser lida como renovação e afeto gentil. Diz-se que cada cor refina a mensagem, com o vermelho se aproximando da declaração e o roxo guardando um carinho mais reservado. Para muitas culturas, a flor de primavera simboliza a segunda chance, aquele recomeço que se planta devagar e espera sem cobrar.",
     colors: ["vermelho", "amarelo", "lilas"],
     meanings: ["amor", "esperanca", "admiracao"],
     occasions: ["dia-das-maes", "aniversario", "casamento"],
@@ -176,19 +176,19 @@ export const flowersF1: Flower[] = [
     seo: {
       title: "Girassol: significado, cultivo e curiosidades",
       description:
-        "Do heliotropismo ao óleo comestível: entenda a origem do girassol na América do Norte, o que a flor simboliza e como cultivá-la em canteiro com sol pleno.",
+        "Conquista sem rodeios tem flor própria: entenda o que o girassol comunica antes mesmo de você abrir a boca e por que ele funciona na primeira visita.",
     },
     summary:
-      "Flor da América do Norte que acompanha o movimento do sol e une paisagismo, simbolismo e uso alimentar.",
+      "Para quem quer conquistar sem cerimônia: o girassol chega alto, aberto e impossível de ignorar na porta.",
     intro:
-      "O girassol pertence ao gênero Helianthus, da família Asteraceae, e é originário da América do Norte, onde já era cultivado pelos povos nativos muito antes da chegada dos europeus. A planta chama atenção pela cabeça floral grande, formada por muitas flores pequenas, e pela habilidade de acompanhar o sol durante o desenvolvimento. Hoje é usada em jardins, em campos ornamentais e na produção de sementes e óleo.",
+      "Conquistar sem meias-palavras tem seu jeito, e o girassol nasceu para ele. A flor é entregue do jeito que a gente fala claro: com tudo aberto, sem rodeio e sem medo de parecer demais. Quem recebe costuma sorrir antes mesmo de entender o motivo, porque o tamanho do gesto já traduz a intenção. É a escolha de quem prefere ser direto a ser sutil, e de quem não se importa de parecer um pouco teimoso.",
     description: [
       "Cada cabeça do girassol é, na verdade, um agrupamento de muitas flores: as pétalas externas são flores estéreis e o centro é formado por flores férteis que produzem os frutos, as sementes. A espécie Helianthus annuus é anual, ou seja, completa o ciclo em uma estação, e pode atingir porte alto quando plantada em solo fértil com muito sol.",
       "O cultivo é simples: prefere sol pleno, espaçamento que permita arejamento e rega regular sem excesso. A planta responde bem a solos que drenam bem e não gosta de sombra. Depois da floração, as cabeças secas podem ficar na planta para as sementes amadurecerem ou ser colhidas para ornamento; no jardim, basta garantir luz forte e espaço vertical.",
       "Em flor cortada, o girassol tem presença marcante em arranjos amplos e rústicos, mas as cabeças pesadas exigem apoio e água fresca. O uso da semente, tanto para consumo quanto para alimentação de aves, faz da planta uma das poucas em que flor, paisagismo e produção se combinam no mesmo canteiro.",
     ],
     symbolism:
-      "Na tradição ocidental, o girassol costuma ser associado a lealdade, admiração e vitalidade, e a leitura mais conhecida aproxima a flor do comportamento de seguir o sol. É uma construção simbólica: esse acompanhamento acontece principalmente nas plantas jovens. Segundo o uso tradicional, oferecer um girassol transmite apoio e estima duradouros.",
+      "Diz-se que o girassol, por seguir o sol, nunca perde de vista quem está por perto, e é dessa leitura que nasce o uso simbólico mais conhecido da flor. Na tradição ocidental, ela costuma ser associada a lealdade, admiração e vitalidade. Para muitas culturas, o amarelo reforça a alegria compartilhada, e oferecer um girassol equivale a dizer fico aqui, do seu lado, sem alarde.",
     colors: ["amarelo", "laranja"],
     meanings: ["admiracao", "esperanca", "amizade"],
     occasions: ["aniversario", "dia-dos-pais", "dia-do-professor"],
@@ -257,19 +257,19 @@ export const flowersF1: Flower[] = [
     seo: {
       title: "Orquídea: tipos, significados e cultivo",
       description:
-        "A orquídea não é uma planta só: são milhares de espécies da família Orchidaceae. Veja como escolher, cuidar em vaso e interpretar o simbolismo tradicional.",
+        "Quem declara com discrição costuma escolher a orquídea: veja como acertar no vaso e na cor, e o que cada matiz comunica para quem vai receber.",
     },
     summary:
-      "Não é uma planta, e sim uma família gigante: milhares de espécies com formas, cores e exigências de cultivo muito diferentes.",
+      "Quem quer declarar com elegância escolhe uma orquídea: um presente que continua de pé depois que as flores secam.",
     intro:
-      "O nome orquídea reúne milhares de espécies da família Orchidaceae, espalhadas por todos os continentes, com maior concentração nas regiões tropicais. Em vez de uma planta única, o termo descreve hábitos muito diferentes: algumas crescem em troncos de árvores, outras no chão, e há desde variedades terrestres resistentes até plantas delicadas de estufa. Por isso, o cultivo começa por entender qual tipo se tem em mãos.",
+      "Declarar sem exagero é uma arte, e a orquídea entende dela. Ela não chega gritando: chega em um vaso, pousada na estante, e continua ali nos dias seguintes, quando o susto da surpresa já passou e sobra tempo para olhar com calma. É o presente de quem quer que a frase dure mais que a visita. Para muita gente, escolher uma orquídea é dizer que o sentimento não é de ocasião: ele pensou em ficar.",
     description: [
       "A família Orchidaceae é uma das maiores entre as plantas com flor, e dentro dela há gêneros muito conhecidos, como Phalaenopsis, Cattleya e Dendrobium. As flores têm um órgão central chamado labelo e sementes minúsculas que, em natureza, dependem de fungos para germinar. Muitas espécies são epífitas, ou seja, crescem fixadas em ramos sem ser parasitas, absorvendo umidade do ar e da chuva.",
       "O manejo em vaso muda conforme o grupo: orquídeas aéreas gostam de substrato drenante, como casca de pinus ou pedras, e de regas que sequem rápido, enquanto as terrestres pedem um composto mais arenoso e úmido. Todas preferem luz filtrada, boa ventilação e adubação leve e frequente no período de crescimento. O vaso deve ter furos e nunca acumular água no fundo.",
       "No Brasil, orquídeas de vaso são encontradas em centros de jardinagem e por colecionadores, e florescem em épocas variadas, o que permite ter plantas em flor durante quase todo o ano. Em arranjos, flores cortadas de vários gêneros são usadas por sua elegância e por durarem bastante quando recebem água limpa.",
     ],
     symbolism:
-      "Na tradição ocidental, a orquídea costuma ser associada a elegância, luxo discreto e afeto duradouro, e já foi usada como símbolo de beleza refinada desde o século XIX, quando colecionadores passaram a disputar exemplares raros. Segundo o uso tradicional, o significado também muda com a cor da flor. Essas leituras são culturais: a mesma planta pode ser lida de formas diferentes em cada país.",
+      "Na tradição ocidental mais recente, a orquídea costuma simbolizar elegância, afeto duradouro e carinho que não se exibe. Diz-se que, no século XIX, colecionadores já a liam como marca de apreço raro, pela paciência que ela pede. Para muitas culturas, o sentido muda com a cor, com o branco se aproximando de respeito e o rosa de afeto mais próximo. Em todo caso, ninguém oferece uma orquídea por descuido.",
     colors: ["branco", "roxo", "rosa"],
     meanings: ["admiracao", "carinho", "amor"],
     occasions: ["casamento", "aniversario", "dia-das-maes"],
@@ -340,19 +340,19 @@ export const flowersF1: Flower[] = [
     seo: {
       title: "Lírio: significado, cultivo e tipos no Brasil",
       description:
-        "O lírio reúne espécies do gênero Lilium, nativas do hemisfério norte. Veja variedades, simbolismo tradicional, plantio em vaso e cuidados no jardim.",
+        "Quando faltam palavras, o arranjo fala por você: descubra por que o lírio aparece em pedidos de desculpa e recomeços, além do que a cor escolhida acrescenta.",
     },
     summary:
-      "Bulbosa de flor grande e perfume marcante, nativa do hemisfério norte e muito cultivada em jardins do Brasil.",
+      "Flor grande de perfume que domina a sala: o lírio chega quando a frase precisa ocupar o ambiente inteiro.",
     intro:
-      "Os lírios do gênero Lilium formam um grupo de bulbosas com flores grandes, pétalas recuadas e, em muitas variedades, perfume forte. A família Liliaceae reúne ainda outras plantas populares no jardim, e os lírios vêm de regiões temperadas do hemisfério norte. No Brasil, são cultivados em canteiros e em vaso, principalmente em regiões mais frescas, e aparecem com frequência em arranjos e na decoração de ambientes.",
+      "Tem hora de pedir desculpas em que a voz não sai, e aí sobra o arranjo. O lírio é justamente essa flor: ocupa a mesa, enche o cômodo de perfume e faz qualquer silêncio parecer menor. Quem recebe um buquê assim entende que houve esforço, escolha e um pouco de coragem. É um gesto para quem quer se desculpar sem economizar, e para quem acredita que certas palavras precisam de companhia para serem ditas.",
     description: [
       "O gênero Lilium tem muitas espécies e centenas de cultivares, divididas em grupos segundo a forma da flor: há lírios de face para cima, de flores pendentes e de formato tubular. As folhas se alternam ao longo do caule e o bulbo, formado por escamas, guarda a energia da planta. O crescimento se dá do bulbo para cima, com um caule ereto que termina em um ou mais botões florais.",
       "No jardim, o lírio pede sol ou meia-sombra, dependendo da variedade, e um solo que drene bem, porque o bulbo não tolera encharcamento. A rega deve ser regular durante o crescimento e mais contida no repouso. Depois da floração, deixe a folhagem amarelecer antes de reduzir a rega, para que o bulbo se recarregue. Em vaso, prefira recipientes fundos.",
       "Como flor cortada, o lírio tem boa presença em arranjos e continua abrindo os botões ainda no vaso. Retire os estames se quiser evitar manchas de pólen nas pétalas e nas roupas, e troque a água com frequência. As flores de perfume forte costumam dominar o ambiente, por isso funcionam melhor em cômodos amplos ou bem ventilados.",
     ],
     symbolism:
-      "Na tradição ocidental, o lírio branco costuma aparecer em contextos de pureza e recomeço, e por isso é associado a cerimônias e a gestos de respeito; o lírio de cor mais forte costuma ser lido como marca de paixão ou de admiração. Segundo o uso tradicional, essas leituras dependem da cor e do contexto, não existindo um significado único para todo o gênero.",
+      "Diz-se que o lírio branco nasceu para os momentos de virada, e a tradição ocidental de fato o associa a pureza, respeito e recomeço, o que explica sua presença em cerimônias e em visitas de consolo. A cor forte costuma falar de paixão e de admiração sem disfarce. Para muitas culturas, a flor grande e perfumada marca desculpas, promessas e começos, com o sentido sempre afinado pela cor e pelo contexto.",
     colors: ["branco", "laranja", "rosa"],
     meanings: ["amor", "admiracao", "esperanca"],
     occasions: ["casamento", "condolencias", "dia-das-maes"],
@@ -423,19 +423,19 @@ export const flowersF1: Flower[] = [
     seo: {
       title: "Margarida: significado, cultivo e curiosidades",
       description:
-        "A margarida de jardim (Bellis perennis) vem da Europa e é símbolo de inocência. Entenda a diferença para as margaridas de tabuleiro, o cultivo e o simbolismo.",
+        "Pedido de desculpas pode ser simples: saiba por que a margarida desarma qualquer briga e como chegar com um gesto sincero, leve e sem grande cerimônia.",
     },
     summary:
-      "Pequena e persistente, a margarida europeia virou flor de jardim clássica e símbolo tradicional de inocência.",
+      "Nem todo pedido de desculpas precisa de pompa: a margarida chega simples, sincera e fácil de perdoar.",
     intro:
-      "A margarida de jardim, Bellis perennis, é uma planta rasteira da família Asteraceae, nativa da Europa e hoje naturalizada em jardins de muitos países. A flor parece uma peça única, mas é um agrupamento de flores pequenas: as pétalas externas ficam na borda e o centro amarelo reúne as flores férteis. No Brasil, o mesmo nome é usado para outras plantas parecidas, como as margaridas de tabuleiro do gênero Chrysanthemum.",
+      "Existe um jeito leve de aproximar as pessoas depois de uma briga, e a margarida é a flor dele. Não pede vaso, nem discurso, nem ocasião marcada: chega no meio do caminho, quase como uma desculpa improvisada, e desarma justamente por isso. Quem recebe entende que não houve cálculo. É o gesto de quem prefere consertar a conversa com um punhado de flores a esperar a semana perfeita para fazer as pazes.",
     description: [
       "A Bellis perennis forma toucinhos de folhas basais e produz várias hastes florais, cada uma com uma única cabeça floral. Ela prefere gramado aberto e sol, mas aguenta bem corte curto de grama, o que explica sua presença em jardins de gramado. As flores abrem durante o dia e se fecham quando a luz diminui, comportamento comum entre as asteráceas.",
       "No cultivo, a margarida é das plantas mais fáceis: gosta de luz boa, rega moderada e solo que drene bem. Em vaso, funciona em recipientes rasos, desde que tenha furos e não acumule água. A multiplicação acontece por divisão de touceira, e as plantas novas seguem a mesma cor das matrizes. Em climas muito quentes, ela agradece meia-sombra na parte da tarde.",
       "Como flor cortada, a margarida tem vida curta e prefere água fresca e talos limpos. Já em jardim, ela se espalha devagar e volta a florir várias vezes ao longo do ano em condições boas. O contraste entre o centro amarelo e a borda clara faz dela uma escolha fácil para composições simples e para quem está começando a plantar.",
     ],
     symbolism:
-      "Na tradição ocidental, a margarida costuma ser lida como símbolo de inocência, pureza e amizade sincera, e aparece em poemas e canções como flor de afeto simples. Segundo o uso tradicional, o gesto de ele me ama, não me ama, associado às pétalas, consolidou essa leitura. São convenções culturais e variam conforme o país e a época.",
+      "No vocabulário do afeto simples, a margarida costuma ser lida como inocência e amizade sincera, e na tradição ocidental ela aparece em poemas como flor de vida comum. Diz-se que o velho jogo das pétalas nasceu dela, o que fixou a ideia de sentimento sem complicação. Para muitas culturas, oferecer margaridas é um jeito de dizer que o carinho continua, mesmo depois do desentendimento e da mágoa guardada.",
     colors: ["branco", "amarelo", "rosa"],
     meanings: ["amizade", "carinho", "esperanca"],
     occasions: ["aniversario", "dia-do-professor", "casamento"],
@@ -502,19 +502,19 @@ export const flowersF1: Flower[] = [
     seo: {
       title: "Cravo: significado, cultivo e simbolismo",
       description:
-        "O cravo-do-campo, Dianthus caryophyllus, é cultivado há mais de dois mil anos. Veja a origem mediterrânea, os significados tradicionais e como cuidar em vaso.",
+        "Declaração clássica no Brasil, o cravo vermelho tem explicação: veja o que ele diz sozinho e como o número de flores muda o peso do seu recado.",
     },
     summary:
-      "Flor mediterrânea cultivada há milênios, clássica em buquês e ligada a afeto e admiração na tradição ocidental.",
+      "Barato, firme e direto: o cravo é o gesto de quem declara amor no meio da rotina, sem esperar data marcada.",
     intro:
-      "O cravo-do-campo pertence ao gênero Dianthus, da família Caryophyllaceae, e é cultivado por mais de dois mil anos, com origem na região do Mediterrâneo. A planta forma touceiras de folhas finas e lança flores de pétalas serrilhadas, em tons fortes ou bicoloradas. É uma das flores mais presentes na floricultura brasileira, aparecendo em buquês, canteiros e vasos, e tem papel consolidado na tradição simbólica europeia.",
+      "Nem toda declaração espera o dia certo. O cravo é a flor de quem resolve falar numa terça-feira qualquer, no meio da rotina, quando não há balão nem letra de música. Ele chega em punhado, aguenta o caminho de volta para casa e continua de pé no copo até a noite. É um gesto com pé no chão, de quem entende que amor também se declara sem ocasião, e que a constância vale mais que o espetáculo.",
     description: [
       "O Dianthus caryophyllus é um subarbusto perene de porte baixo, com folhas opostas e acinzentadas e hastes que terminam em flores de várias camadas. Existem tipos de flor simples e dobradas, e o corte frequente das hastes ajuda a manter a planta compacta. É uma espécie que prefere sol, ar circulando e calor seco a excesso de umidade.",
       "No jardim, o cravo cresce melhor em solo que drene rápido e receba luz boa; em vaso, vale usar substrato leve e regar só quando a superfície estiver seca. A poda depois da floração prolonga o ciclo da touceira. Entre as pragas mais comuns estão cochonilhas e fungos ligados ao encharcamento, que aparecem com ar parado e excesso de rega.",
       "Como flor cortada, o cravo tem desempenho bom, com talos firmes e floração que continua abrindo botões no vaso. É muito usado em arranjos de data comemorativa e em buquês de formatura e casamento, e se combina bem com flores de porte menor. A escolha entre tipos anões e de corte alto define o uso em canteiro ou em vaso.",
     ],
     symbolism:
-      "Na tradição ocidental, o cravo vermelho costuma ser lido como declaração de amor, e o cravo branco como pureza e boa sorte; por volta do Dia dos Namorados, esse uso se tornou corrente no Brasil. Segundo o uso tradicional, até o número de cravos carrega leitura, ideia consolidada na cultura popular sem qualquer base botânica.",
+      "No uso tradicional brasileiro, o cravo vermelho costuma ser lido como declaração de amor e o branco como pureza e boa sorte, leitura que se fixou em torno do Dia dos Namorados. Diz-se que até o número de cravos carregava sentido na cultura popular, um para cada afeto declarado. Para muitas culturas, a flor de pétalas serrilhadas fala de sentimento direto, sem meia-palavra nem cerimônia.",
     colors: ["vermelho", "branco", "rosa"],
     meanings: ["amor", "admiracao", "amizade"],
     occasions: ["dia-dos-namorados", "casamento", "aniversario"],
@@ -585,19 +585,19 @@ export const flowersF1: Flower[] = [
     seo: {
       title: "Lavanda: cultivo, significado e aromas",
       description:
-        "Nativa do Mediterrâneo, a lavanda une aroma marcante e uso em jardim, vaso e decoração seca. Veja cultivo, significado tradicional e dicas de colheita e secagem.",
+        "Clima tenso em casa? Descubra por que a lavanda é a flor de quem pede desculpas sem pressa e como o perfume, abrindo o ambiente, ajuda a começar a conversa.",
     },
     summary:
-      "Arbustinho aromático do Mediterrâneo, querido pelo perfume herbáceo e pela boa performance em jardim e em decoração seca.",
+      "Para pedir desculpas sem medo de pesar: a lavanda chega quieta e transforma um clima tenso em conversa.",
     intro:
-      "A lavanda é um subarbusto aromático do gênero Lavandula, da família Lamiaceae, nativa da região do Mediterrâneo e de áreas próximas. As flores pequenas, dispostas em espigas, saem de hastes eretas e folhas de tom acinzentado. Além do uso ornamental, a planta é cultivada por causa do aroma, presente em potpourris, sachês e produtos de limpeza, e a produção comercial se concentra principalmente na Europa.",
+      "Pedir desculpas costuma exigir um tom mais baixo antes da primeira frase, e a lavanda faz esse trabalho já no primeiro passo. Ela não chega para acusar nem para se justificar: chega com um perfume que muda o ar do cômodo e dá à conversa um lugar menos duro. Quem aceita um buquê desses costuma soltar o ombro antes de falar. É o gesto de quem prefere acalmar a casa antes de tentar se explicar.",
     description: [
       "A lavanda forma touceiras compactas de folhas estreitas e aromáticas e floresce em espigas que ficam acima da folhagem. Existem várias espécies, com porte e intensidade de aroma diferentes, e algumas se adaptam melhor ao calor e à seca do que outras. Ela pede sol pleno, calor e solo que drene rápido, e não gosta de raízes encharcadas.",
       "Depois da floração, corte as hastes logo acima da folhagem para manter a forma da touceira e estimular novas brotações. Em vaso, use substrato com boa drenagem, pouca adubação e regas espaçadas; em regiões muito úmidas, a planta pede ainda mais ar ao redor. A colheita das flores é feita quando boa parte das espigas está aberta, e a secagem acontece em local sombreado e arejado.",
       "No jardim, a lavanda atrai abelhas e outros polinizadores e combina bem com plantas de folha miúda e de solo seco. Em casa, hastes secas guardadas em recipientes abertos deixam o ambiente perfumado por bastante tempo. O óleo essencial, extraído das partes aéreas, é o que sustenta boa parte do uso comercial da planta.",
     ],
     symbolism:
-      "Na tradição ocidental, a lavanda costuma ser associada a calma, sossego e limpeza, e por isso aparece em roupas de cama, sachês e ambientadores desde há séculos. Segundo o uso tradicional, também se aproxima de adeus suaves e de memória afetiva. Esses significados vêm do perfume e do uso doméstico da planta, não de um código universal.",
+      "Na tradição doméstica que associa a lavanda à calma e à limpeza, em roupas, sachês e águas de casa desde há séculos, a flor costuma ser lida como sossego e cuidado. Diz-se que ela acompanha adeus suaves e memórias afetivas, o que a torna presença comum em gestos de consolo. Para muitas culturas, oferecer lavanda é um jeito tranquilo de dizer que ainda se importa, e que a conversa pode esperar o clima esfriar.",
     colors: ["lilas", "roxo", "azul"],
     meanings: ["saudade", "carinho", "esperanca"],
     occasions: ["dia-das-maes", "condolencias", "pedido-de-desculpas"],
@@ -664,19 +664,19 @@ export const flowersF1: Flower[] = [
     seo: {
       title: "Jasmim: significado, cultivo e perfume",
       description:
-        "O jasmim reúne espécies do gênero Jasminum, originárias da Ásia e da África tropical. Veja o simbolismo tradicional, o cultivo em vaso e como usar em arranjos.",
+        "Silêncio depois da briga tem fim com o perfume certo: saiba por que o jasmim é escolhido para reatar e como a noite prepara a conversa que ninguém quer começar.",
     },
     summary:
-      "Arbusto trepador de perfume intenso, originário da Ásia e da África tropical e ligado a afeto na tradição cultural.",
+      "Perfume que se espalha à noite: o jasmim é o gesto silencioso de quem quer reatar depois que a casa esfriou.",
     intro:
-      "O jasmim pertence ao gênero Jasminum, da família Oleaceae, com origem no sul da Ásia e na África tropical. São muitas espécies, em sua maioria trepadeiras ou arbustos, com flores pequenas e brancas e perfume forte, especialmente à noite. No Brasil, o jasmim é muito cultivado em muros, gradis e pergolados, e também aparece em vasos, de onde sai em direção à luz.",
+      "Reatar costuma começar no escuro, quando a casa está quieta e ninguém quer ser o primeiro a ligar. O jasmim nasceu para esse momento: abre de noite, espalha o perfume pela varanda e faz o silêncio parecer menos hostil. Ele não resolve a briga, mas abre a porta para a conversa. Quem leva esse ramo até a casa de alguém já está dizendo que pensou no assunto, e que ainda quer estar por perto.",
     description: [
       "As flores de jasmim são pequenas, geralmente brancas e tubulares, e em muitas espécies abrem com mais força no fim do dia, liberando aroma à noite. O porte varia: há jasmim de porte rasteiro, arbustivo e trepadeiras capazes de cobrir estruturas leves. A folhagem é verde escura e brilhante, e a floração se distribui ao longo das estações quentes, conforme a espécie.",
       "No cultivo, o jasmim pede luz boa, rega regular e espaço para as hastes se espalharem. Em vaso, vale usar um tutor ou uma estrutura de apoio e fazer podas de manutenção para conter o tamanho. As folhas podem atrair pequenos insetos em ambientes muito abafados, por isso o arejamento ajuda. Adubação leve e frequente no período de crescimento sustenta a floração.",
       "Como flor cortada, o jasmim é mais usado em pequenas doses, em arranjos discretos, porque o aroma domina o ambiente. Flores frescas perdem perfume rápido fora da planta, por isso convém colocá-las na água logo após o corte. Em jardim, a trepadeira combina com gradis e muros, onde o perfume se espalha com a brisa.",
     ],
     symbolism:
-      "Na tradição ocidental, o jasmim costuma ser associado a ternura, afeto delicado e memória afetiva; em algumas tradições do sul da Ásia, ele aparece em cerimônias e em oferendas, ligado a pureza e boa sorte. Segundo o uso tradicional, o significado muda conforme o contexto cultural. O que se mantém é a associação com o perfume e com lembranças afetivas.",
+      "Na tradição ocidental, o jasmim costuma ser associado a ternura, afeto delicado e lembrança de bons momentos; em tradições do sul da Ásia, ele aparece em cerimônias ligadas a pureza e sorte. Diz-se que o perfume da noite guarda a memória afetiva de quem conviveu com a flor. Para muitas culturas, oferecer jasmim é um convite silencioso: nada de declaração estrondosa, só a insistência mansa em lembrar o outro lado.",
     colors: ["branco", "amarelo"],
     meanings: ["carinho", "amor", "admiracao"],
     occasions: ["dia-dos-namorados", "casamento", "pedido-de-namoro"],
@@ -743,19 +743,19 @@ export const flowersF1: Flower[] = [
     seo: {
       title: "Violeta: significado, cultivo e simbolismo",
       description:
-        "A violeta-do-campo, Viola odorata, é nativa da Europa e tem perfume marcante. Entenda o simbolismo tradicional, o cultivo em vaso e a multiplicação da planta.",
+        "Afeto discreto também diz muito: entenda por que a violeta é o gesto de quem ama sem alarde, respeita o tempo do outro e não espera ocasião marcada.",
     },
     summary:
-      "Rasteira perfumada da Europa e da Ásia temperada, tradicionalmente ligada a afeto discreto e lealdade.",
+      "Afeto que não precisa de palanque: a violeta fala baixinho e por isso funciona até nas relações mais antigas.",
     intro:
-      "A violeta-do-campo, Viola odorata, é uma planta rasteira da família Violaceae, nativa da Europa e da Ásia temperada. Forma almofadas de folhas arredondadas e lança flores pequenas e perfumadas, em tons de roxo, branco ou amarelo conforme a variedade. No Brasil, ela é cultivada em jardins de clima ameno e em vasos, e seu perfume suave é um dos mais reconhecidos entre as flores de tamanho pequeno.",
+      "Carinho antigo raramente pede entrega grandiosa. A violeta é a flor de quem chega com um punhado pequeno, quase escondido no bolso, e diz o que sente sem chamar atenção da vizinhança. Ela funciona melhor justamente nas relações antigas, em que já não se precisa provar grande coisa, só lembrar. É o gesto de quem prefere um perfume discreto a um arranjo que ocupa a mesa inteira, e de quem entende que cuidado também se fala em voz baixa.",
     description: [
       "A Viola odorata cresce rente ao solo, com folhas em formato de coração e hastes curtas que sustentam a flor. Depois da floração, ela pode se espalhar por estolões, formando uma cobertura baixa em sombra parcial. As flores, apesar de pequenas, têm perfume forte e doce, que fica mais perceptível quando a planta está em local aberto e arejado.",
       "No cultivo, a violeta prefere meia-sombra, calor moderado e solo úmido, mas que drene bem; sol forte e seco costuma queimar as folhas. Em vaso, use substrato leve e regue com frequência, evitando molhar as flores. A planta se multiplica por divisão de touceiras ou por estolões, e as mudas novas mantêm as características da matriz.",
       "No uso, pétalas de violeta aparecem em confeitaria e na decoração de sobremesas, e a planta também é usada na produção de perfumes e sabões. Em jardim, funciona como cobertura de solo em áreas frescas, junto a caminhos e sob arbustos. Em arranjos, as flores duram pouco colhidas, mas a planta em vaso mantém a floração por boa parte do ano.",
     ],
     symbolism:
-      "Na tradição ocidental, a violeta costuma ser associada a afeto discreto, lealdade e modéstia, e aparece em poemas e no vocabulário do namoro antigo como flor de carinho sem ostentação. Segundo o uso tradicional, a violeta roxo se aproxima de amor e a branca de pureza. Essas leituras são culturais e mudam conforme a época e o país.",
+      "No namoro antigo, diz-se que quem recebia uma violeta entendia o recado sem precisar de carta. Na tradição ocidental, a flor costuma ser lida como afeto discreto, lealdade e modéstia, carinho que não se exibe. Para muitas culturas, flores pequenas e perfumadas guardam justamente o sentimento que não pede palanque, gesto de quem respeita o tempo do outro.",
     colors: ["roxo", "branco", "lilas"],
     meanings: ["carinho", "amor", "amizade"],
     occasions: ["dia-dos-namorados", "dia-das-maes", "pedido-de-desculpas"],

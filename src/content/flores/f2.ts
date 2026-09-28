@@ -13,19 +13,19 @@ export const flowersF2: Flower[] = [
     seo: {
       title: "Azaleia: significado, cores e como cuidar",
       description:
-        "Veja o que a azaleia representa na tradição floral, quais cores predominam, quando ela floresce e o que observar em rega, luz e solo para o vaso.",
+        "Azaleia e saudade de quem está longe: entenda o que essa flor diz na tradição e descubra o gesto certo para reencontro, agradecimento e carinho.",
     },
     summary:
-      "Arbusto de Ericaceae coberto de flores coloridas, a azaleia prefere solo ácido, luz filtrada e umidade constante no substrato.",
+      "Quando a saudade aperta, a azaleia abre de uma vez — como quem enfim decidiu mandar recado para quem está longe.",
     intro:
-      "A azaleia é um arbusto do gênero Rhododendron, da família Ericaceae, apreciado por cobrir os ramos de flores em períodos intensos e relativamente curtos. Muitas das espécies mais conhecidas vêm da Ásia oriental, onde fazem parte de jardins históricos, e hoje prosperam em canteiros e em vaso em diversas regiões do Brasil. No cultivo doméstico, o ponto de atenção é manter o substrato úmido, mas sem encharcamento, e oferecer luz filtrada, que é o que a planta prefere.",
+      "Quem recebe azaleia costuma guardar a lembrança de quem mandou. Ela abre de repente e cobre o arbusto inteiro, e é por isso que virou gesto de quem quer dizer que lembrou sem precisar de discurso. Deixá-la na casa da mãe, na mesa de um professor ou na porta de um amigo que está mal passando é uma forma silenciosa de dizer que ninguém foi esquecido.",
     description: [
       "Botanicamente, a azaleia reúne arbustos de porte variado, com folhas persistentes ou caducas conforme o grupo. As flores podem ser simples ou dobradas, tubulares ou abertas, e surgem em grande quantidade, quase escondendo a folhagem. A floração é o grande destaque da planta e acontece em janelas bem definidas ao longo do ano, variando conforme a espécie, a cultivar e o clima local.",
       "No jardim, ela prefere meia-sombra, solo ácido e matéria orgânica, com rega que mantenha a terra úmida sem deixar encharcada. Em vaso, o substrato seca mais rápido e exige acompanhamento frequente. Adubações leves e regulares durante o período de crescimento ajudam a sustentar folhas e botões, e a poda logo após a floração remove os botões gastos sem comprometer a safra seguinte.",
       "Como planta de entrada ou de varanda, a azaleia funciona bem quando recebe luz indireta e água em frequência regular. Ela reage mal tanto à secura prolongada quanto ao encharcamento, por isso o vaso precisa de boa drenagem e o rego deve ser conferido com o dedo no substrato antes de repetir.",
     ],
     symbolism:
-      "Na tradição ocidental, a azaleia costuma ser associada à delicadeza dos sentimentos e à lembrança de quem está longe. Em algumas leituras florais antigas, mantê-la em casa passaria mensagem de cuidado exagerado ou de decisão apressada. Segundo o uso tradicional, também aparece em gestos de gratidão e em composições para reencontros � significados culturais, não universais, que mudam de região para região.",
+      "Na tradição das flores, a azaleia aparece ligada à saudade de quem está longe e ao cuidado que não precisa de palavras. Diz-se que levá-la para casa é um recado de atenção e, em algumas leituras antigas, até de pressa em demonstrar afeto. Para muitas culturas, ela também entra em gestos de agradecimento e em reencontros, como quem quer estar por perto e ainda não conseguiu.",
     colors: ["rosa", "branco", "lilas"],
     meanings: ["saudade", "admiracao", "gratidao"],
     occasions: ["dia-das-maes", "aniversario", "dia-do-professor"],
@@ -99,19 +99,19 @@ export const flowersF2: Flower[] = [
     seo: {
       title: "Hortênsia: significado, cores e cultivo",
         description:
-          "Descubra o simbolismo da hortênsia, por que algumas variedades mudam de cor conforme o pH do solo e o que observar em rega, luz e poda no cultivo.",
+          "Hortênsia: entenda por que essa flor de tantas cores virou o gesto preferido para agradecer, celebrar e dizer obrigado sem precisar de palavras.",
     },
     summary:
-      "Arbusto japonês de grandes inflorescências, a hortênsia gosta de sombra e umidade e pode variar de azul a rosa conforme o solo.",
+      "Cheia de flores e sem precisar de discurso, a hortênsia chega para agradecer, reconhecer e emocionar quem recebe.",
     intro:
-      "A hortênsia é um arbusto da família Hydrangeaceae, originária do Japão, conhecido pelas grandes inflorescências arredondadas que dominam o jardim no verão. As folhas são largas e verde-escuras, e os talos são firmes o bastante para sustentar flores pesadas. No Brasil, ela se adaptou bem a jardins de meia-sombra e também a vaso, desde que a terra nunca fique ressecada por tempo demais.",
+      "Tem gente que não aceita elogio direto, e para essas pessoas existe a hortênsia. Ela chega grande, pesada de flores, e não pede nada em troca: gesto perfeito para agradecer a quem criou, para reconhecer alguém que sempre esteve ali ou para cumprimentar um casamento recém-começado. Basta deixá-la na entrada da casa e ver a pessoa entender o recado sem uma palavra.",
     description: [
       "A inflorescência que chamamos de flor é, na verdade, um conjunto de flores pequenas e vistosas rodeadas por sépalas grandes, que são a parte colorida. Existe a forma redonda, mais conhecida, e a forma aberta, com as flores férteis expostas ao centro. A planta é arbustiva, de folhagem densa, e floresce com mais intensidade quando o inverno foi ameno e a rega foi constante.",
-      "O cultivo pede luz indireta, substrato que retenha umidade sem encharcar e adubo regular no período de crescimento. O ponto mais discutido é a cor: em algumas variedades, solo ácido tende a produzir tons azulados e solo mais alcalino tende ao rosa. �0 um fenômeno conhecido e gradual, que depende da variedade e do minério disponível no substrato, sem resultado garantido.",
+      "O cultivo pede luz indireta, substrato que retenha umidade sem encharcar e adubo regular no período de crescimento. O ponto mais discutido é a cor: em algumas variedades, solo ácido tende a produzir tons azulados e solo mais alcalino tende ao rosa. É um fenômeno conhecido e gradual, que depende da variedade e do minério disponível no substrato, sem resultado garantido.",
       "A poda deve ser feita depois da floração, encurtando os ramos que já floresceram, porque os botões do ano seguinte se formam nesses ramos. Em vaso, troque o substrato de vez em quando e confira se a raiz não tomou todo o espaço do recipiente.",
     ],
     symbolism:
-      "Na floriografia vitoriana, a hortênsia chegou a simbolizar frieza de sentimentos e até vaidade, leitura que hoje raramente aparece. No uso contemporâneo, costuma-se associá-la à gratidão, ao reconhecimento e a gestos de cuidado, especialmente em presentes para a mãe. Segundo o uso tradicional, também é comum oferecê-la em casamentos, onde representa abundância e sentimentalismo.",
+      "Na floriografia vitoriana, a hortênsia chegou a ser lida como frieza de sentimentos e até vaidade, leitura que hoje ninguém mais usa. No uso tradicional corrente, ela anda ligada a gratidão e carinho, e diz-se que um buquê dela fala alto por quem não sabe elogiar de volta. Para muitas culturas, é flor de celebração: aparece em casamentos e em dias de mãe por parecer generosa demais para um vaso só.",
     colors: ["azul", "rosa", "branco"],
     meanings: ["gratidao", "admiracao", "carinho"],
     occasions: ["dia-das-maes", "casamento", "aniversario"],
@@ -150,7 +150,7 @@ export const flowersF2: Flower[] = [
       },
     ],
     curiosities: [
-      "A cor das pétalas em algumas variedades de Hydrangea macrophylla responde ao alumínio disponível no solo, que por sua vez depende do pH � por isso ácido tende ao azul e solo alcalino tende ao rosa.",
+      "A cor das pétalas em algumas variedades de Hydrangea macrophylla responde ao alumínio disponível no solo, que por sua vez depende do pH — por isso ácido tende ao azul e solo alcalino tende ao rosa.",
       "O nome científico Hydrangea vem de termos gregos que remetem a água, em referência ao consumo elevado da planta.",
       "A hortênsia é a flor de nascimento do mês de julho em algumas listas tradicionais de flores do mês.",
     ],
@@ -184,19 +184,19 @@ export const flowersF2: Flower[] = [
     seo: {
       title: "Peônia: significado, cores e cultivo",
       description:
-        "Conheça a peônia: simbolismo na tradição oriental e ocidental, formas de floração, preferências de solo e o cuidado para plantas herbáceas e arbustivas.",
+        "Peônia: conheça a flor romântica de pétalas cheias que transforma declarações, pedidos de desculpas e casamentos em gestos de amor à moda antiga.",
     },
     summary:
-      "Perene de flores grandes e perfumadas, a peônia é nativa do hemisfério norte e leva temporadas para se estabelecer antes de florir.",
+      "Romântica sem precisar de discurso, a peônia é a flor de quem declara, agradece e pede desculpas com elegância.",
     intro:
-      "A peônia é uma planta herbácea ou arbustiva da família Paeoniaceae, nativa da Ásia, da Europa e do oeste da América do Norte. As flores são grandes, com muitas camadas de pétalas, e vão do simples ao plenamente dobrado. �0 uma planta de permanência: prefere ficar no mesmo lugar, com raízes tranquilas, e costuma levar um tempo de adaptação antes de produzir a primeira floração generosa.",
+      "Quem ama muito nem sempre sabe falar alto. A peônia, com suas camadas de pétalas e perfume que toma a sala, é a escolha de quem vai declarar sem gritar, agradecer com presença ou celebrar um casamento com algo que parece saído de um filme antigo. Coloque algumas em um vaso alto na sala antes do jantar e a noite toda muda de humor.",
     description: [
       "Existem dois tipos principais no cultivo: as herbáceas, que recuam ao solo no inverno e brotam de novo na primavera, e as arbustivas, que mantêm uma estrutura lenhosa acima do chão. As flores aparecem no fim dos ramos, grandes e pesadas, e em muitas cultivares o perfume é marcante. A folhagem é bem formada mesmo fora da floração, o que sustenta o visual da planta no canteiro.",
       "A peônia gosta de sol pleno a meia-sombra leve, solo profundo, drenante e rico em matéria orgânica. O principal erro de cultivo é mexer na raiz: transplantes frequentes atrasam a recuperação e, em muitos casos, a floração. Também é comum a planta chegar ao novo lugar e passar temporadas sem florir enquanto se organiza abaixo do solo.",
       "Em vaso, ela exige recipiente generoso, rega estável e um período frio que muitas cultivares precisam para completar o ciclo. Nas regiões mais quentes do Brasil, o desempenho costuma ser melhor em altitudes mais frescas ou em jardins com sol da manhã e sombra da tarde.",
     ],
     symbolism:
-      "Na tradição chinesa, a peônia é tida como a flor da riqueza e da honra, presente em pinturas, tecidos e porcelanas há séculos. Na floriografia ocidental, costuma-se associá-la ao romântico, à prosperidade e, em algumas leituras, à modéstia. Segundo o uso tradicional, oferecer peônias em casamento representa desejo de um lar próspero � leitura cultural, não regra universal.",
+      "Na tradição chinesa, a peônia é tida como flor da riqueza e da honra, presente em pinturas, tecidos e porcelanas há séculos. Na floriografia ocidental, diz-se que ela anda ligada ao romântico, à prosperidade e, em algumas leituras, à modéstia. Para muitas culturas, oferecer peônias em casamento é desejo de um lar próspero — leitura antiga que serve mais para emocionar do que para provar qualquer coisa.",
     colors: ["rosa", "branco", "vermelho"],
     meanings: ["amor", "admiracao", "gratidao"],
     occasions: ["casamento", "dia-das-maes", "dia-dos-namorados"],
@@ -243,12 +243,12 @@ export const flowersF2: Flower[] = [
       {
         question: "Minha peônia já tem folhas mas não floresce, por quê?",
         answer:
-          "�0 comum em plantas recém-plantadas ou transplantadas: a raiz ainda está se estabelecendo. Falta de sol e poda na época errada também atrasam a floração.",
+          "É comum em plantas recém-plantadas ou transplantadas: a raiz ainda está se estabelecendo. Falta de sol e poda na época errada também atrasam a floração.",
       },
       {
         question: "Peônia é perene ou anual?",
         answer:
-          "�0 perene. As herbáceas recuam ao solo e voltam a brotar; as arbustivas mantêm a estrutura. Nos dois casos, a planta volta todos os anos.",
+          "É perene. As herbáceas recuam ao solo e voltam a brotar; as arbustivas mantêm a estrutura. Nos dois casos, a planta volta todos os anos.",
       },
       {
         question: "A peônia pode ser cultivada em vaso?",
@@ -269,19 +269,19 @@ export const flowersF2: Flower[] = [
     seo: {
       title: "Íris: significado, cores e cultivo",
       description:
-          "Veja o que a íris representa na tradição floral, quais cores são mais comuns, quando ela floresce e como cultivar rizomas em solo com boa drenagem.",
+          "Íris: descubra o que essa flor de arco-íris significa na tradição, por que ela virou escolha certa para homenagens, formaturas e recados de esperança.",
     },
     summary:
-      "Planta de rizoma do hemisfério norte, a íris é reconhecida pelas flores arquitetônicas, sobretudo em tons de roxo e azul.",
+      "Mensagem em forma de flor, a íris é a escolha de quem quer torcer, homenagear e abrir caminho para quem ama.",
     intro:
-      "A íris é um gênero da família Iridaceae, amplamente distribuído no hemisfério norte, com forte presença no Mediterrâneo. O nome remete à deusa grega da mensagem e ao arco-íris, referência direta à variedade de cores do gênero. As flores têm uma estrutura particular, com standards erguidos e quedas caídas, e aparecem sobre talos limpos, o que faz da íris uma planta de linhas marcantes no canteiro.",
+      "Todo recado importante cabe em poucas palavras. A íris, de talos altos e flor desenhada como nenhuma outra, é a escolha de quem quer mandar torcida: numa formatura, no aniversário de quem acreditou em você ou na porta de alguém que está começando algo novo. Chegue com o buquê sem grande discurso — a flor tem reputação de falar por conta própria.",
     description: [
       "O grupo é diverso: existem íris de rizoma, que formam massas grossas logo abaixo da superfície, e íris bulbosas, de ciclo mais curto. A folhagem é em forma de espada, ereta e verde-escura, e acompanha a planta mesmo depois da floração. A flor em si é complexa, com pétalas internas erguidas e pétalas externas pendentes, muitas vezes com detalhes e manchas que guiam os polinizadores.",
-      "No cultivo, o ponto crítico é a drenagem. O rizoma não tolera ficar em água parada, por isso o canteiro precisa ser elevado e o solo deve secar entre as regas. Sol pleno ajuda os rizomas a maturarem, e a divisão periódica mantém a massa produtiva � rizomas apertados e enterrados demais costumam florescer menos.",
+      "No cultivo, o ponto crítico é a drenagem. O rizoma não tolera ficar em água parada, por isso o canteiro precisa ser elevado e o solo deve secar entre as regas. Sol pleno ajuda os rizomas a maturarem, e a divisão periódica mantém a massa produtiva — rizomas apertados e enterrados demais costumam florescer menos.",
       "As flores duram pouco em cada talo, mas abrem em sequência, o que prolonga a presença da planta no jardim. Depois da floração, deixe as folhas intactas até secarem naturalmente, porque é nelas que a planta guarda energia para a safra seguinte.",
     ],
     symbolism:
-      "Na tradição ocidental, a íris roxa costuma ser associada à sabedoria, à fé e a reconhecimento, e por isso aparece em composições de formatura e homenagens. Segundo o uso tradicional, a íris branca comunica pureza e respeito, enquanto a amarela reforça mensagens de otimismo. O vínculo com o arco-íris, vindo do mito grego, reforça ideias de ponte e de mensagem entre mundos.",
+      "Na tradição ocidental, a íris roxa anda ligada à sabedoria e ao reconhecimento, e por isso aparece em formaturas e homenagens. Diz-se que a branca comunica respeito e a amarela, otimismo — herança do mito grego que faz da flor mensageira entre céu e terra. Para muitas culturas, ela também é sinal de esperança e de recomeço, o que explica a frequência dela em celebrações de conquista.",
     colors: ["roxo", "azul", "branco"],
     meanings: ["esperanca", "admiracao", "amizade"],
     occasions: ["formatura", "casamento", "aniversario"],
@@ -355,19 +355,19 @@ export const flowersF2: Flower[] = [
     seo: {
       title: "Astromélia: significado e como cuidar",
       description:
-        "Conheça a astromélia, também chamada de lírio dos incas: origem sul-americana, longa duração no vaso, simbolismo de amizade e dicas de cultivo.",
+        "Astromélia: conheça a flor de amizade que dura muito no vaso e por que ela virou o gesto perfeito para agradecer, homenagear e presentear quem importa.",
     },
     summary:
-      "Astromélia sul-americana, de flores manchadas e duração longa no vaso, é uma das favoritas para arranjos de todos os dias.",
+      "Colorida, alegre e difícil de esquecer, a astromélia é a flor de quem quer agradecer, acompanhar e celebrar amizade sem formalidade.",
     intro:
-      "A astromélia, também conhecida como lírio dos incas, é um gênero herbáceo da família Alstroemeriaceae, nativa da América do Sul, com maior diversidade no Brasil e no Chile. As flores são assimétricas, frequentemente manchadas ou listradas, e nascem em cachos sobre talos folhosos. �0 uma planta de presença leve no jardim e de desempenho muito confiável em vaso, tanto como planta viva quanto como flor cortada.",
+      "Amizade não marca hora nem pede ocasião especial. A astromélia, com seus cachos coloridos, é a flor que se dá sem cerimônia: no aniversário de um amigo, na formatura de alguém da família, no agradecimento que ficou pendente há meses. Ela chega numa mesa comum e continua abrindo flores enquanto o assunto do presente ainda estiver quente.",
     description: [
       "Os talos são eretos e as folhas se dispõem em espiral, com uma curiosidade botânica: elas se invertem na base, de modo que a face de cima na verdade é a face inferior original. As flores abrem em sequência no cacho, o que estende o período de exibição. As pétalas podem ser lisas ou marcadas por listras escuras, que funcionam como sinalização para polinizadores.",
       "No cultivo, a astromélia pede luz boa, solo drenante e rega constante sem encharcar. Ela responde bem à colheita frequente: quanto mais talos são cortados ou removidos, mais a planta tenta refazer a floração. Em vaso, prefere ambiente arejado e frescor na base, com raízes que não esquentem demais.",
       "Como flor cortada, é uma das mais longas entre as comuns, e por isso aparece com facilidade em buquês, arranjos de mesa e composições de presente. Os talos aceitam bem a água e mantêm as flores abertas por bastante tempo, desde que a folhagem submersa seja removida do vaso.",
     ],
     symbolism:
-      "Na tradição moderna de presentes, a astromélia costuma ser associada à amizade, ao carinho e ao apoio nos momentos difíceis. Segundo o uso tradicional nas Américas, ela também aparece em gestos de gratidão e em arranjos de celebração, por ser flor alegre e sem peso formal. Esses significados são culturais e variam conforme o contexto em que a flor é oferecida.",
+      "Na tradição moderna de presentes, a astromélia costuma andar com amizade, carinho e apoio nos dias difíceis. Segundo o uso tradicional nas Américas, ela também aparece em gestos de gratidão e em arranjos de celebração, por ser flor alegre e sem peso formal. Para muitas culturas, oferecer astromélia é reconhecer alguém sem dramaticidade — um obrigado que se sustenta sozinho, do jeito que só a amizade boa sustenta.",
     colors: ["rosa", "laranja", "branco"],
     meanings: ["amizade", "carinho", "gratidao"],
     occasions: ["aniversario", "dia-das-maes", "formatura"],
@@ -376,7 +376,7 @@ export const flowersF2: Flower[] = [
     aroma: { intensity: "leve", notes: ["floral"] },
     durability: "longa",
     durationNote:
-      "�0 uma das flores cortadas de maior permanência no vaso; trocar a água e cortar os talos de novo ajuda a manter o desempenho.",
+      "É uma das flores cortadas de maior permanência no vaso; trocar a água e cortar os talos de novo ajuda a manter o desempenho.",
     height:
       "Herbácea de porte baixo a médio, com talos folhosos que se sustentam sem tutor em canteiro.",
     care: [
@@ -408,13 +408,13 @@ export const flowersF2: Flower[] = [
     curiosities: [
       "As folhas da astromélia se torcem na base, de modo que a face visível é, do ponto de vista botânico, a face inferior da folha.",
       "O gênero foi batizado em homenagem a Clas Alstroemer, aluno e amigo de Lineu, responsável pela nomenclatura botânica moderna.",
-      "A astromélia é nativa da América do Sul, com maior concentração de espécies no Brasil e no Chile � o que a torna uma flor regional de verdade.",
+      "A astromélia é nativa da América do Sul, com maior concentração de espécies no Brasil e no Chile — o que a torna uma flor regional de verdade.",
     ],
     faqs: [
       {
         question: "Astromélia é a mesma coisa que lírio?",
         answer:
-          "Não. �0 comum vendê-la como lírio dos incas, mas ela pertence à família Alstroemeriaceae e não aos lírios verdadeiros, da família Liliaceae.",
+          "Não. É comum vendê-la como lírio dos incas, mas ela pertence à família Alstroemeriaceae e não aos lírios verdadeiros, da família Liliaceae.",
       },
       {
         question: "Como fazer a astromélia durar mais no vaso?",
@@ -440,19 +440,19 @@ export const flowersF2: Flower[] = [
     seo: {
       title: "Camélia: significado, cores e cultivo",
       description:
-        "Conheça a camélia-japonesa: arbusto da mesma família do chá, de flores impecáveis, que prefere solo ácido, sombra parcial e invernos amenos.",
+        "Camélia: conheça a flor vermelha ou branca que floresce no inverno e transforma declarações, agradecimentos e pedidos de desculpas em gestos elegantes.",
     },
     summary:
-      "Arbusto oriental da família do chá, a camélia produz flores redondas e impecáveis no fim do inverno e na primavera.",
+      "Diz-se que a camélia cai inteira, sem se despedaçar — e por isso virou a flor de quem ama sem meio-termo.",
     intro:
-      "A camélia é um arbusto da família Theaceae, nativa do Japão, da China e da Coreia, conhecida pelas flores regulares e de pétalas bem sobrepostas. �0 a mesma família da planta do chá, o que explica várias semelhanças de cultivo: solo ácido, luz filtrada e boa umidade. No Brasil, a camélia floresce em período mais frio do ano, quando poucas outras plantas ocupam o jardim.",
+      "Quando o inverno ainda não terminou e o jardim está sem cor, a camélia abre suas flores redondas e impecáveis — e é aí que ela vira gesto. Levar uma camélia para quem você quer conquistar ou reconquistar é dizer que a atenção persiste mesmo na época em que ninguém espera nada bonito. Funciona num pedido de desculpas, num aniversário ou na porta de quem você ama.",
     description: [
       "A flor da Camellia japonica pode ser simples, semi-dobrada ou totalmente dobrada, sempre com um desenho muito ordenado. As cores mais comuns são o vermelho, o rosa e o branco, com variações e até listras. A folhagem é persistente, brilhante e escura, e o arbusto mantém forma atraente mesmo fora da floração, o que o torna útil como planta de cobertura no jardim.",
       "O cultivo combina sombra parcial, substrato ácido e drenante e rega sem alternância forte de seco e encharcado. Sol pleno pode queimar as folhas em regiões quentes, enquanto excesso de calor adianta o fim da floração. Depois de florir, a poda é leve, apenas para ajustar a forma e retirar ramos internos.",
       "A camélia também funciona em vaso, desde que o recipiente seja generoso e o substrato seja renovado com cuidado. Ela agradece ambiente arejado e protegido do sol duro, e responde bem a adubo para plantas acidófilas ao longo do ano.",
     ],
     symbolism:
-      "Na floriografia ocidental, a camélia vermelha costuma ser associada ao amor ardente e ao desejo, enquanto a branca comunica admiração e respeito. No Japão, a camélia aparece em contextos cerimoniais e artísticos, mas também carrega uma leitura de cautela, porque a flor cai inteira quando murcha. Segundo o uso tradicional, esses sentidos mudam conforme a cor e a ocasião.",
+      "Na floriografia ocidental, a camélia vermelha costuma ser lida como amor ardente e a branca como admiração respeitosa. No Japão, diz-se que ela carrega uma certa cautela, justamente porque a flor inteira chega ao chão quando murcha, ao contrário da maioria. Para muitas culturas, é essa queda limpa que a torna símbolo de amor que não se desfaz aos pedaços — leitura antiga, repetida em presentes e em histórias de inverno.",
     colors: ["vermelho", "rosa", "branco"],
     meanings: ["admiracao", "amor", "gratidao"],
     occasions: ["dia-dos-namorados", "aniversario", "casamento"],
@@ -509,7 +509,7 @@ export const flowersF2: Flower[] = [
       {
         question: "Quando a camélia floresce?",
         answer:
-          "No fim do inverno e na primavera, variando conforme a cultivar e o clima. �0 justamente esse período mais frio que desencadeia a formação dos botões.",
+          "No fim do inverno e na primavera, variando conforme a cultivar e o clima. É justamente esse período mais frio que desencadeia a formação dos botões.",
       },
     ],
     relatedFlowers: ["azaleia", "hortensia", "magnolia"],
@@ -526,19 +526,19 @@ export const flowersF2: Flower[] = [
     seo: {
       title: "Dália: significado, cores e cultivo",
       description:
-        "A dália é a flor nacional do México: veja suas cores e formas, o simbolismo tradicional e como plantar tubérculos, regar e tutorar no jardim.",
+        "Dália: saiba escolher entre dezenas de cores e formatos a flor certa para presentear, homenagear, casar e celebrar quem você mais admira no mundo.",
     },
     summary:
-      "Originária da América Central, a dália é a flor nacional do México e reúne formas e cores extremamente variadas.",
+      "Com formas de todas as maneiras, a dália é a flor de quem quer acertar no presente e no gesto, seja qual for a pessoa.",
     intro:
-      "A dália é uma planta herbácea da família Asteraceae, originária do México e da Guatemala, oficialmente reconhecida como flor nacional do México. Suas flores são capítulos compostos, com pétalas dispostas em camadas, e existem em uma gama de formas e tamanhos notável, de pompões pequenos a cabeças grandes e alongadas. Ela se tornou uma das favoritas de canteiro e arranjo justamente por essa versatilidade.",
+      "Nem todo mundo quer a mesma flor, e a dália resolve isso com variedade: pompon fechado, flor gigante, vermelho intenso ou laranja aberto. É a escolha de quem teme errar o presente — num aniversário, numa homenagem ou no dia do pai. Escolha a cor pela pessoa, não pelo manual, e o buquê já chega falando a língua dela.",
     description: [
       "O que chamamos de flor é um capítulo com dezenas de pétalas dispostas em camadas, que podem ser lisas, acanhadas ou dobradas, formando desde a bola fechada até a forma de estrela. As cores incluem vermelho, laranja, rosa, amarelo, branco e tons escuros quase pretos, além de combinações listradas. A planta cresce a partir de tubérculos e refaz a floração enquanto as flores gastas forem removidas.",
       "No cultivo, a dália pede sol pleno, solo fofo e bem adubado, e rega regular. Os tubérculos não resistem ao frio intenso nem ao solo encharcado, por isso o ponto de atenção é drenagem. Em jardim, plantas altas costumam precisar de apoio para não tombarem com vento ou chuva, e a colheita frequente das flores prolonga a exibição até o fim da estação.",
-      "�0 uma planta que responde muito ao cuidado: quanto mais removemos flores secas e mais estável é a rega, mais intensa fica a produção de botões. Ao fim da temporada, em regiões frias, os tubérculos podem ser guardados para replantar, enquanto em climas amenos a planta segue seu ciclo no lugar.",
+      "É uma planta que responde muito ao cuidado: quanto mais removemos flores secas e mais estável é a rega, mais intensa fica a produção de botões. Ao fim da temporada, em regiões frias, os tubérculos podem ser guardados para replantar, enquanto em climas amenos a planta segue seu ciclo no lugar.",
     ],
     symbolism:
-      "Na tradição mexicana, a dália é símbolo nacional e aparece em celebrações e em símbolos oficiais do país. Na floriografia ocidental do século XIX, ela costuma ser associada à elegância, à dignidade e à criatividade. Segundo o uso tradicional, também se relaciona a permanência e lealdade, o que explica sua presença em arranjos de aniversário e de reconhecimento.",
+      "Na tradição mexicana, a dália é flor nacional e aparece em celebrações e em símbolos oficiais do país. Na linguagem das flores do século XIX, diz-se que ela andava ligada a elegância, dignidade e criatividade, e também a lealdade, o que explica sua presença em aniversários e homenagens. Para muitas culturas, oferecer uma dália é reconhecimento devolvido: alguém viu o seu esforço.",
     colors: ["laranja", "vermelho", "rosa"],
     meanings: ["admiracao", "alegria", "esperanca"],
     occasions: ["aniversario", "casamento", "dia-dos-pais"],
@@ -585,7 +585,7 @@ export const flowersF2: Flower[] = [
       {
         question: "A dália é anual ou perene?",
         answer:
-          "�0 perene a partir de tubérculos. Em clima ameno, a planta segue no lugar; em região fria, os tubérculos podem ser guardados e replantados na estação seguinte.",
+          "É perene a partir de tubérculos. Em clima ameno, a planta segue no lugar; em região fria, os tubérculos podem ser guardados e replantados na estação seguinte.",
       },
       {
         question: "Por que minha dália só faz folhas e não floresce?",
@@ -611,19 +611,19 @@ export const flowersF2: Flower[] = [
     seo: {
       title: "Begônia: significado e cuidados em vaso",
       description:
-        "Descubra por que a begônia é uma das plantas de sombra mais cultivadas: folhas assimétricas, flores contínuas e cuidados simples de rega e luz.",
+        "Begônia: entenda por que essa planta de sombra e flores miúdas virou um presente de carinho para agradecer no dia a dia, sem cerimônia nem pressa.",
     },
     summary:
-      "Planta tropical de folhas assimétricas e flores delicadas, a begônia é uma das favoritas para sombra e interiores.",
+      "Pequena, constante e sem pretensão, a begônia é o afeto que se entrega em qualquer dia comum e continua florescendo.",
     intro:
-      "A begônia é um gênero enorme da família Begoniaceae, nativo dos trópicos de ambos os hemisférios, que reúne desde plantas de flores até espécies cultivadas só pela folhagem. As folhas são assimétricas na base, com um lado maior que o outro, e podem ser verde-escuras, listradas ou metálicas. No Brasil, é uma das plantas mais presentes em jardins de sombra, varandas e ambientes internos.",
+      "Carinho bom não precisa de grande buquê. A begônia, de flores miúdas e folhas desiguais, é a planta que se deixa na mesa de quem você quer agradecer no dia a dia: uma colega, um professor, a mãe que cuida da casa. Ela não exige espaço nem cerimônia, só um lugar com luz — e responde florescendo como quem entendeu a intenção por trás do gesto.",
     description: [
       "As flores da begônia são pequenas e surgem em cachos, em tons de rosa, vermelho, branco e laranja, dependendo do grupo. Ela é uma planta de porte baixo e crescimento contínuo, o que a torna boa cobertura de solo em sombra e boa companheira de vaso. Muitas cultivares existem por causa da folhagem, que tem textura, brilho e desenho marcantes.",
       "No cultivo, o essencial é luz indireta forte e rega cuidadosa. A planta gosta de umidade, mas não tolera folhas paradas em água, o que favorece manchas e fungos. Em vaso, o substrato deve drenar bem e o recipiente não precisa ser enorme, já que a begônia mantém porte contido e reflorece com frequência.",
       "As begônias tuberosas, cultivadas a partir de tubérculos, entram em repouso após a floração, enquanto as begônias de folhagem seguem ativas o ano todo. A distinção importa na hora de regar e guardar a planta no fim da estação.",
     ],
     symbolism:
-      "Na tradição de presentes, a begônia costuma ser associada à atenção delicada e ao carinho nas pequenas coisas, talvez por causa das flores miúdas e da folhagem cuidadosa. Segundo o uso tradicional, ela aparece em gestos de reconhecimento simples, como agradecimentos e lembranças de casa. O significado é cultural e muda conforme o contexto em que a planta é oferecida.",
+      "Na tradição de presentes, a begônia costuma ser associada à atenção delicada e ao carinho nas pequenas coisas — talvez, diz-se, pelas flores miúdas e pela folhagem que pede cuidado. Para muitas culturas, ela aparece em agradecimentos simples e em lembranças de casa, do tipo que se entrega na porta sem fanfarra. É afeto sem dramaticidade, o que a torna querida justamente por isso.",
     colors: ["rosa", "vermelho", "branco"],
     meanings: ["carinho", "admiracao", "amizade"],
     occasions: ["aniversario", "dia-das-maes", "dia-do-professor"],
@@ -662,7 +662,7 @@ export const flowersF2: Flower[] = [
       },
     ],
     curiosities: [
-      "As folhas da begônia são assimétricas na base, com um lado bem maior que o outro � a marca mais fácil de reconhecer o gênero.",
+      "As folhas da begônia são assimétricas na base, com um lado bem maior que o outro — a marca mais fácil de reconhecer o gênero.",
       "A begônia tem flores masculinas e femininas separadas na mesma planta, um arranjo comum no gênero.",
       "O nome homenageia Michel Bégon, administrador francês do século XVII que manteve correspondência com botânicos da época.",
     ],
@@ -697,19 +697,19 @@ export const flowersF2: Flower[] = [
     seo: {
       title: "Gerânio: significado e cuidados no dia a dia",
       description:
-        "Guia do gerânio em vaso: origem sul-africana, diferença em relação ao gênero Geranium, sol, rega, poda e o que fazer quando a planta para de florescer.",
+        "Gerânio: entenda o que essa planta de varanda, que continua florescendo depois do presente, representa na tradição e por que virou gesto de carinho.",
     },
     summary:
-      "Planta sul-africana de vaso e varanda, o gerânio floresce com frequência e pede sol, boa drenagem e rega com intervalo.",
+      "Gerânio não é flor de um dia só: é o carinho que fica na varanda, florescendo depois que todo mundo já foi embora.",
     intro:
-      "O gerânio que se cultiva em vaso e jardineira no mundo inteiro é, na maior parte das vezes, do gênero Pelargonium, da família Geraniaceae, originário do sul da África. São plantas de porte baixo, folhagem aromática em muitas variedades e flores em cachos que se renovam constantemente. A popularidade vem do desempenho: com luz e drenagem adequadas, ele segue florescendo por longo período.",
+      "Há presentes que terminam em vaso e continuam crescendo. O gerânio é assim: alguém te dá uma muda, você cuida dele na varanda e, meses depois, ele segue florescendo como um lembrete vivo. É a escolha para o dia do pai, para o professor ou para o amigo que gosta de fazer as coisas com as mãos — um gesto prático de afeto, do tipo que continua crescendo.",
     description: [
       "Os pelargônios se dividem em grupos bem diferentes, como os de flores zonadas, os de flor dupla, os trepadores e os de folha aromática. As folhas podem ser arredondadas, recortadas ou em coração, e em várias cultivares liberam cheiro quando tocadas. As flores nascem em umbelas acima da folhagem, e a planta mantém formato compacto quando recebe luz suficiente.",
-      "No cultivo, o gerânio pede sol, substrato drenante e rega que deixe o solo secar entre os regos. Encharcamento é o principal inimigo: causa amarelamento e apodrecimento da base. A poda é simples e decisiva � cortar talos floridos e amassar levemente as folhas ajuda a manter o formato arbustivo e a estimular novas flores.",
-      "Em vaso, ele responde bem ao adubo regular e � retirada das flores secas. Em regiões de calor intenso, prefere sol da manhã e alguma proteção à tarde; em ambientes fechados, precisa de janela bem iluminada para não esticar.",
+      "No cultivo, o gerânio pede sol, substrato drenante e rega que deixe o solo secar entre os regos. Encharcamento é o principal inimigo: causa amarelamento e apodrecimento da base. A poda é simples e decisiva — cortar talos floridos e amassar levemente as folhas ajuda a manter o formato arbustivo e a estimular novas flores.",
+      "Em vaso, ele responde bem ao adubo regular e É retirada das flores secas. Em regiões de calor intenso, prefere sol da manhã e alguma proteção à tarde; em ambientes fechados, precisa de janela bem iluminada para não esticar.",
     ],
     symbolism:
-      "Na tradição popular, o gerânio de janela é lido como sinal de casa cuidada e de afeto doméstico, presença comum em varandas e quintais. Na floriografia antiga, o gênero aparece com sentidos variados, entre eles lealdade e amizade. Segundo o uso tradicional, oferecer um gerânio em vaso equivale a um gesto prático de carinho � algo feito para ficar, não para durar dias.",
+      "Na tradição popular, o gerânio de janela é lido como sinal de casa cuidada e de afeto doméstico, presença comum em varandas e quintais. Diz-se que a linguagem antiga das flores lhe atribuía lealdade e amizade. Para muitas culturas, oferecer um gerânio em vaso é um carinho que se planta: algo feito para ficar, não para durar poucos dias — o contrário do buquê que murcha e some.",
     colors: ["vermelho", "rosa", "branco"],
     meanings: ["amizade", "carinho", "esperanca"],
     occasions: ["dia-dos-pais", "dia-do-professor", "aniversario"],
@@ -782,19 +782,19 @@ export const flowersF2: Flower[] = [
     seo: {
       title: "Ranúnculo: significado, cores e cultivo",
       description:
-        "Conheça o ranúnculo: flor do Mediterrâneo com pétalas em camadas, significado de encanto radiante, preferências de frio e cuidados em vaso e canteiro.",
+        "Ranúnculo: conheça a flor de pétalas em camadas que abre devagar no vaso e ajuda quem quer declarar, conquistar ou pedir desculpas do jeito certo.",
     },
     summary:
-      "Flor mediterrânea de pétalas finas em camadas, o ranúnculo prefere clima ameno, solo drenante e luz boa.",
+      "Pétala sobre pétala, o ranúnculo guarda um charme antigo para quem chega com esperança na mão e coração aberto.",
     intro:
-      "O ranúnculo é uma planta herbácea da família Ranunculaceae, nativa do Mediterrâneo e do Oriente Próximo, também conhecida como botão-da-pérsia. As flores têm muitas camadas de pétalas finas, quase de papel, e nascem em talos limpos sobre folhagem recortada. �0 uma flor muito usada em arranjos e casamentos justamente pela forma redonda e regular, que lembra a de uma peônia em menor escala.",
+      "Antes do sim, antes do pedido, existe aquele momento em que ninguém quer se arriscar sozinho. O ranúnculo, redondo e cheio como um botão que insiste em abrir, é a flor de quem se atreve a falar primeiro — num pedido de namoro, numa declaração tardia ou numa desculpa sincera. Ele abre devagar no vaso, e essa demora combina com quem gosta de conquistar sem pressa.",
     description: [
       "A planta se desenvolve a partir de tubérculos em forma de garra, que armazenam energia para a floração. As folhas são recortadas e verde-escuras, formando uma base baixa da qual saem os talos florais. As pétalas se sobrepõem em muitas camadas e as cores incluem rosa, laranja, amarelo, branco e vermelho, com variações muito suaves entre tons.",
       "No cultivo, o ranúnculo prefere luz boa e clima ameno. Calor intenso adianta o fim da floração, enquanto solo encharcado apodrece os tubérculos. A rega deve ser regular e o substrato precisa drenar com facilidade; em vaso, o fundo livre de água é o que garante a saúde da planta ao longo da estação.",
       "Como flor cortada, ela tem bom desempenho quando colhida ainda em botão ou semiaberta. No canteiro, a remoção dos talos gastos ajuda a planta a refazer botões, e o aproveitamento se estende enquanto o clima seguir ameno, sem calor excessivo.",
     ],
     symbolism:
-      "Na tradição ocidental de linguagem das flores, o ranúnculo costuma ser associado a encanto radiante e a admiração intensa. Segundo o uso tradicional, um buquê de ranúnculos transmite desejo de atrair e de demonstrar interesse, o que explica a presença recorrente em pedidos e em arranjos românticos. �0 leitura cultural, sem validade universal.",
+      "Na tradição da linguagem das flores, o ranúnculo costuma ser associado a encanto radiante e admiração intensa. Diz-se que um buquê dele transmite desejo de atrair, por isso aparece tanto em pedidos e em arranjos românticos. Para muitas culturas, ele também significa alegria de estar perto de alguém — leitura afetiva herdada dos manuais antigos, que ainda orienta quem quer conquistar sem depender de sorte.",
     colors: ["rosa", "laranja", "amarelo"],
     meanings: ["admiracao", "amor", "alegria"],
     occasions: ["pedido-de-namoro", "dia-dos-namorados", "casamento"],

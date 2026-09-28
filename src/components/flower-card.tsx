@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-import { FlowerVisual } from "@/components/flower-visual";
+import { FlowerMedia } from "@/components/flower-media";
 import { getColor } from "@/lib/content";
 import type { Flower } from "@/lib/types";
 
@@ -18,10 +18,11 @@ export function FlowerCard({ flower, showColors = true }: { flower: Flower; show
       href={`/flores/${flower.slug}`}
       className="group flex flex-col overflow-hidden rounded-2xl border border-line bg-white transition hover:-translate-y-0.5 hover:border-leaf/40 hover:shadow-[0_10px_30px_-18px_rgba(20,67,47,0.55)]"
     >
-      <FlowerVisual
+      <FlowerMedia
+        slug={flower.slug}
         name={flower.name}
-        seed={flower.slug}
         hexes={hexes}
+        sizes="(min-width: 1024px) 25vw, (min-width: 640px) 33vw, 100vw"
         className="aspect-[4/3] w-full"
       />
       <div className="flex flex-1 flex-col gap-2 p-4">

@@ -12,19 +12,19 @@ export const flowersF4: Flower[] = [
     seo: {
       title: "Dente-de-leão: significado, cultivo e curiosidades",
       description:
-        "Conheça o dente-de-leão: planta de campo de flores amarelas, comestível e resistente, com simbolismo tradicional, cuidados no jardim e curiosidades.",
+        "Descubra por que o dente-de-leão virou a flor do desejo feito em voz baixa e como ele entra em gestos de carinho entre quem não gosta de discurso.",
     },
     summary:
-      "Planta de campo de flores amarelas em disco, o dente-de-leão une resistência, simbolismo de esperança e uso culinário das folhas jovens.",
+      "Leve como desejo feito em voz baixa: o dente-de-leão chega sem discurso e ainda assim dá o que falar entre duas pessoas que se querem bem.",
     intro:
-      "O dente-de-leão é uma herbácea perene de flores amarelas que se fecha à noite e volta a abrir com o sol, formando pequenos discos compostos por muitas pétalas finas. Presente em jardins, calçadas e terrenos baldios, ela se adapta a solos variados e se espalha com facilidade. Muito além de mera planta daninha, o dente-de-leão tem folhas jovens usadas na culinária e uma trajetória simbólica antiga nas culturas europeias.",
+      "Quem sopra a flor madura e conta as sementes que voam aprendeu cedo que desejo também se entrega em voz baixa. Levada em meio a um buquê rústico ou colhida no caminho da casa da pessoa querida, essa flor de campo chega sem cerimônia e continua o gesto na boca de quem recebe: um pedido de recomeço, uma promessa discreta ou só a vontade de ver a outra pessoa sorrir.",
     description: [
       "Botanicamente, o dente-de-leão pertence à família das asteráceas, a mesma do girassol e da margarida. O que parece uma única flor é, na verdade, uma inflorescência reunindo dezenas de flores pequenas. As folhas se organizam em roseta junto ao solo e apresentam bordas recortadas, características que deram origem ao nome popular em várias línguas.",
       "Depois da floração, a flor se transforma na estrutura esférica de sementes aladas, cada uma ligada a um filamento que o vento carrega por longa distância. Essa eficiência ajuda a explicar por que a planta coloniza rapidamente terrenos perturbados e reaparece em jardins onde ninguém a plantou.",
       "Como planta de campo, o dente-de-leão prefere sol pleno e aceita bem a seca depois de estabelecido. Em muitos lugares ele é tratado como invasor e removido de canteiros; em outros, é colhido jovem para saladas e infusões. O manejo deve ser consciente, evitando áreas tratadas com defensivos.",
     ],
     symbolism:
-      "Na tradição ocidental, o dente-de-leão costuma simbolizar desejos realizados e a coragem de seguir em frente, muito ligado à infância e ao ato de assoprar a flor madura. Segundo o uso popular, ele também representa esperança e alegria simples, o que explica sua presença em arranjos rústicos e em mensagens de carinho.",
+      "Na tradição europeia mais difundida, o dente-de-leão virou símbolo de desejos realizados: basta assoprar a cabeça madura e pedir em silêncio. Diz-se também que a planta tem a coragem de florescer em terreno gasto, o que a aproxima de gestos de recomeço entre pessoas. Para muitas culturas, o amarelo aberto dessa flor lembra alegria simples, o tipo de sentimento que se entrega num bilhete curto ou numa flor colhida a caminho de quem se gosta.",
     colors: ["amarelo"],
     meanings: ["esperanca", "alegria", "carinho"],
     occasions: ["aniversario", "dia-dos-pais"],
@@ -91,19 +91,19 @@ export const flowersF4: Flower[] = [
     seo: {
       title: "Glória-da-manhã: cultivo, cores e significado",
       description:
-        "Glória-da-manhã é trepadeira anual de flores amplas que abrem de manhã e murcham no mesmo dia. Veja cultivo, cores, significado e curiosidades.",
+        "Veja o que a glória-da-manhã tem a ver com declaração apressada, recomeço e com a vontade de transformar um simples bom-dia em recado de afeto.",
     },
     summary:
-      "Trepadeira anual de flores amplas que abrem cedo e fecham no mesmo dia, a glória-da-manhã é escolha rápida para treliças ensolaradas.",
+      "Abre com a manhã e some antes da tarde: a glória-da-manhã lembra que falar cedo vale mais que deixar o sentimento murcha.",
     intro:
-      "A glória-da-manhã é uma trepadeira anual conhecida por abrir suas flores na primeira metade do dia e fechá-las quando o sol aperta. As pétalas formam um funil amplo, em tons que vão do azul e do roxo ao rosa e ao branco. De ciclo rápido, a planta cobre treliças, grades e tapumes em poucas semanas e completa seu ciclo em uma única estação, sem sobreviver ao frio.",
+      "Quem já foi receber uma pessoa de manhã e encontrou essa flor aberta na varanda lê o recado antes de abrir o papel. Ela renova o gesto todos os dias, como quem insiste sem pressão, e cabe num buquê informal levado ao trabalho ou deixado na porta. Para quem quer declarar sem cerimônia, ela diz que o sentimento não precisa de ocasião grande para existir.",
     description: [
       "Pertencente à família das convolvuláceas, a glória-da-manhã produz folhas em forma de coração e hastes finas que se enrolam em qualquer apoio disponível. A floração é generosa enquanto as condições forem boas, com várias flores abrindo ao longo dos dias de primavera e de verão.",
       "Por ser anual, a planta nasce, floresce e morre em um ciclo rápido. Por isso ela é semeada novamente a cada estação e é uma boa escolha para quem quer cobrir um espaço rapidamente sem comprometer jardins permanentes nem ocupar raízes de outras espécies.",
       "Como é trepadeira, precisa de suporte firme e de áreas ensolaradas. Em regiões mais frescas, a floração é mais longa; em calor extremo, as flores abrem mais cedo e encurtam durante o dia. O solo deve reter umidade sem ficar encharcado.",
     ],
     symbolism:
-      "Na tradição ocidental, a glória-da-manhã costuma associar-se ao recomeço e à alegria de um novo dia, justamente por abrir suas flores pela manhã. Segundo o uso simbólico, ela também representa esperança e afeição delicada, o que a torna escolha informal para demonstrar carinho em ocasiões descontraídas.",
+      "Diz-se que a flor que só existe até a tarde ensinou muita gente a aproveitar o dia em que o sentimento é novo. Na tradição do jardim romântico, ela acompanha recados de recomeço e a esperança de ser ouvida cedo. Para muitas culturas, flores de vida curta servem para lembrar que beleza não se mede em duração — e que alegria dita em voz baixa também vale, mesmo que dure pouco tempo na memória.",
     colors: ["roxo", "azul", "rosa"],
     meanings: ["esperanca", "alegria", "carinho"],
     occasions: ["aniversario", "nascimento"],
@@ -170,19 +170,19 @@ export const flowersF4: Flower[] = [
     seo: {
       title: "Passiflora: a flor do maracujá e seu significado",
       description:
-        "A passiflora é a flor do maracujá: trepadeira tropical de estrutura floral complexa, usada em jardins e associada a símbolos tradicionais e religiosos.",
+        "Conheça a passiflora, flor do maracujá, e o motivo pelo qual ela virou símbolo de quem prefere dizer tudo de uma vez, sem meia-palavra nem rodeio.",
     },
     summary:
-      "A passiflora, flor do maracujá, reúne pétalas e coroa de filamentos em estrutura complexa; é trepadeira tropical cujo fruto é muito consumido.",
+      "Tudo à mostra, do miolo à coroa: a passiflora é flor de quem quer declarar direto e sem deixar a outra pessoa na dúvida.",
     intro:
-      "A passiflora é a flor do maracujá, planta trepadeira da família das passifloráceas que produz uma das estruturas florais mais elaboradas do vegetal. Pétalas, sépalas e uma coroa de filamentos coloridos se organizam em volta do centro, criando o desenho que chamou a atenção de naturalistas desde a colonização. Além da beleza ornamental, a espécie é cultivada pelo fruto, o maracujá, consumido in natura e em sucos.",
+      "Uma flor que abre o miolo inteiro para quem olha de perto raramente fica sem comentário. Leve-a numa noite de conversa séria, num pedido que espera resposta ou numa desculpa entregue em pessoa, e a estrutura dela vira assunto antes mesmo do recado ser dito. É a escolha de quem prefere que o gesto tenha preparo — e que a outra pessoa veja, claramente, o que estava sendo escondido.",
     description: [
       "A flor se abre durante o dia e exibe uma coroa de filamentos listrados que se destaca sobre as pétalas brancas. Essa composição, com receptáculo, estames e estigmas bem visíveis, tornou a passiflora um clássico em estudos de botânica e em ilustrações de jardim.",
       "Como trepadeira, a planta usa gavinhas para se fixar em grades, telas e tutores. Ela cresce com vigor em regiões quentes e úmidas e pode ocupar rapidamente um espaço ensolarado, oferecendo folhagem densa durante a boa estação e muitas flores quando bem adubada.",
       "Além do valor ornamental, a passiflora tem uso alimentar: o fruto desta espécie é o maracujá, um dos mais consumidos no Brasil. A floração é mais generosa quando a planta recebe luz pleno e substrato fértil, e ela responde bem a podas de manutenção.",
     ],
     symbolism:
-      "Segundo o uso tradicional cristão, a estrutura complexa da passiflora passou a representar elementos da Paixão de Cristo, leitura atribuída a naturalistas da América colonial. Fora desse contexto religioso, costuma-se associar a flor à admiração e ao encanto diante de algo elaborado. É um simbolismo cultural, presente em igrejas e jardins, e não um significado universal.",
+      "Na América colonial, naturalistas ligaram cada parte dessa flor a um episódio da Paixão de Cristo, e na tradição cristã a leitura pegou de vez — ainda hoje ela reaparece em igrejas e jardins antigos. Diz-se que o mesmo desenho também fala de encanto por algo que exige atenção para ser entendido. Para muitas culturas fora desse círculo, a coroa de filamentos virou símbolo de admiração, e serve bem a quem precisa dizer: olhei com calma, e continuo aqui.",
     colors: ["branco", "roxo"],
     meanings: ["admiracao", "amor", "esperanca"],
     occasions: ["casamento", "pedido-de-namoro"],
@@ -249,19 +249,19 @@ export const flowersF4: Flower[] = [
     seo: {
       title: "Flor-de-lótus: simbolismo, cultivo e curiosidades",
       description:
-        "Conheça a flor-de-lótus: planta aquática de flores rosadas, ligada a tradições religiosas orientais, cultivada em lagos, viveiros e jardins com água.",
+        "Saiba o quanto a flor-de-lótus carrega da tradição oriental e entenda o motivo de ela virar o presente de quem reata uma relação devagar e com respeito.",
     },
     summary:
-      "Planta aquática de grandes flores rosadas, a flor-de-lótus é ligada a tradições religiosas orientais e cresce em lagos e reservatórios.",
+      "Sobe da lama sem sujar a pétala: a flor-de-lótus é escolha para recomeçar sem pressa e presentear quem merece uma nova chance.",
     intro:
-      "A flor-de-lótus é uma planta aquática perene de grandes flores que emergem acima da superfície da água em lagos e reservatórios. As folhas são amplas e circulares, com superfície repelente à água, e as flores abrem em tons de rosa e branco. Originária da Ásia, a espécie é cultivada em parques aquáticos e em jardins com água, nunca em vasos convencionais de ambiente fechado.",
+      "Quem entrega essa flor está dizendo algo antes de abrir a boca: que viu a outra pessoa nos dias difíceis e ainda assim a escolheu. Ela não cabe em aperto apressado; pede um momento, uma conversa sem pressa, um presente que dure na memória depois que a flor fechar. Em gestos de reconciliação, é comum deixá-la em silêncio sobre a mesa e esperar a pergunta certa.",
     description: [
       "Pertencente à família das nelumbonáceas, o lótus não se confunde com o nenúfar: suas folhas e flores se erguem bem acima da água, enquanto o nenúfar as mantém apoiadas na superfície. A planta se desenvolve com as raízes fixadas no substrato do fundo.",
       "As flores abrem durante o dia e se fecham à noite, em ciclos que se repetem por alguns dias antes de se desfizerem. Cada floração exige água limpa, boa iluminação e espaço, por isso o lótus é próprio de lagoas, viveiros e reservatórios amplos.",
       "Como ocupa vasilhames grandes, o lótus não entra na categoria de planta de vaso de casa. Em jardins com água, porém, é uma das espécies mais valorizadas pela presença imponente das folhas e pelo perfume delicado das flores, que atraem a visita de quem passa.",
     ],
     symbolism:
-      "Nas tradições budista e hindu, a flor-de-lótus é apresentada como símbolo de pureza, renascimento e iluminação, por nascer da lama e abrir flor limpa acima da água. Essa leitura é cultural e religiosa, presente em templos e representações artísticas da Ásia. Fora desse contexto, costuma-se associar a flor à admiração e à serenidade, sem que exista um significado único.",
+      "Nas tradições budista e hindu, o lótus é apresentado como símbolo de pureza e de renascimento justamente porque nasce na lama e abre limpo acima da água. Diz-se que ver a flor subir ajuda a lembrar que começo novo é possível mesmo depois de tempo ruim. Para muitas culturas que o adotaram fora dos templos, ele passou a significar admiração e serenidade — sentimento bom para quem quer reatar sem reviver a briga.",
     colors: ["rosa", "branco"],
     meanings: ["esperanca", "admiracao", "gratidao"],
     occasions: ["casamento", "aniversario"],
@@ -328,19 +328,19 @@ export const flowersF4: Flower[] = [
     seo: {
       title: "Gardênia: cultivo, perfume e significado",
       description:
-        "A gardênia é arbusto de flores brancas perfumadas, da mesma família do café. Veja como cultivar em vaso ou jardim e o que esta flor representa.",
+        "Repare como a gardênia, de perfume que gruda na roupa, aparece em pedido de desculpas e em declaração feita em silêncio, do jeito de quem quer ser lembrado.",
     },
     summary:
-      "Arbusto de folhas brilhantes e flores brancas perfumadas, a gardênia é querida em jardins e vasos, mas exige luz, substrato ácido e umidade.",
+      "Perfume que fica no ar depois que a pessoa sai: a gardênia é o presente de quem declara em silêncio e espera ser entendido.",
     intro:
-      "A gardênia é um arbusto de folhas brilhantes e flores brancas e perfumadas, da família das rubiáceas, a mesma do café. Nativa da China e do sudeste asiático, tornou-se uma das plantas mais populares para jardins e ambientes luminosos. O perfume intenso das flores e a folhagem escura explicam sua presença em vasos, canteiros e arranjos, desde que receba atenção à luz, à umidade e à qualidade do substrato.",
+      "Tem gente que não faz discurso: chega, entrega a flor e vai embora deixando o perfume falar. É assim que a gardênia entra numa relação — no aniversário de namoro esquecido, na desculpa por mensagem mal entendida, no buquê pequeno levado sem motivo aparente. Quem recebe costuma guardar o cheiro na memória, e é por isso que essa flor aparece de novo nos anos seguintes, sempre que o gesto precisa se repetir.",
     description: [
       "As flores da gardênia abrem em branco puro e podem apresentar dupla coroa de pétalas, conforme a variedade. Elas se desenvolvem no fim dos ramos, entre folhas coriáceas e esverdeadas, e envelhecem para um tom creme antes de caírem, marcando o fim de cada ciclo.",
       "O arbusto prefere meia-sombra a sol filtrado, substrato ácido e regas constantes sem encharcamento. Em solo alcalino ou com água calcária, as folhas amarelam entre as nervuras, sinal de clorose, o problema mais comum de quem cultiva a espécie pela primeira vez.",
       "É uma planta de regiões quentes e úmidas: não tolera geadas fortes e sofre com o ar seco dos ambientes fechados. Em vaso, responde bem a borrifações frequentes e a locais com umidade maior, como espaços claros junto a janelas.",
     ],
     symbolism:
-      "Na tradição ocidental, a gardênia costuma associar-se ao amor silencioso e à delicadeza, sendo comum em buquês de noiva e em arranjos de ocasiões íntimas. Segundo o uso tradicional, ela também representa gratidão e carinho, o que a torna escolha recorrente em presentes. O significado varia conforme a cultura e o contexto, não sendo universal.",
+      "Para muitas culturas, branco perfumado é agradecimento sem palavra — e na tradição ocidental a gardênia virou símbolo do amor que não sai falando. Diz-se que quem a leva prefere ser lembrado pelo cheiro do que por promessa escrita, o que explica a presença dela em buquês de noiva e em presentes discretos entre duas pessoas que se dão bem sem testemunha.",
     colors: ["branco"],
     meanings: ["amor", "carinho", "gratidao"],
     occasions: ["casamento", "dia-das-maes", "pedido-de-namoro"],
@@ -408,19 +408,19 @@ export const flowersF4: Flower[] = [
     seo: {
       title: "Plumeria ou frangipani: cultivo e significado",
       description:
-        "A plumeria, ou frangipani, é árvore tropical de flores perfumadas usadas em guirlandas. Veja cultivo, cores, significado e os cuidados com a seiva leitosa.",
+        "Na leitura de muita gente, a plumeria, a frangipani das guirlandas do Pacífico, marca o instante em que uma amizade antiga vira amor dito sem palavra nenhuma.",
     },
     summary:
-      "Árvore tropical de flores perfumadas usadas em guirlandas no Pacífico, a plumeria é comum em jardins quentes; sua seiva leitosa exige cuidado.",
+      "Doce até no fim do dia e fácil de entregar em guirlanda, a plumeria nasceu para transformar amizade antiga em declaração sem alarde.",
     intro:
-      "A plumeria, conhecida como frangipani, é uma árvore tropical de pequeno a médio porte, da família das apocináceas, nativa das Américas. As flores aparecem em cachos nas pontas dos ramos, com pétalas espessas e perfume doce que se intensifica no fim do dia. Muito usada em guirlandas e em decoração nas ilhas do Pacífico, a planta também é comum em jardins brasileiros de regiões quentes.",
+      "Nas ilhas do Pacífico ninguém oferece a flor sozinha: ela entra em guirlanda, passa pelo pescoço de quem chega e fica ali enquanto a festa dura. Traga esse costume para um gesto seu e a mesma flor sai de presente de amigo e chega perto de declaração. Basta entregar devagar, com as duas mãos, e deixar o perfume doce dizer o resto da frase.",
     description: [
       "As flores da plumeria têm cinco pétalas levemente torcidas e variam do branco ao rosa e ao amarelo, conforme a variedade. Elas se formam em cachos no fim dos galhos, que perdem as folhas em períodos secos e voltam a rebentar quando volta a umidade.",
       "A árvore se adapta bem ao calor e a solos drenados, e sofre com frio intenso e com encharcamento. Como toda apocinácea, produz uma seiva leitosa ao ser cortada; o contato pode irritar pele e olhos, por isso convém manusear com cuidado e lavar as mãos depois.",
       "Em jardim, a plumeria ocupa lugar de destaque justamente quando floresce nos ramos aparentes, com os cachos surgindo nas pontas. Ela responde bem a podas leves e a vasos amplos, sendo também opção para quem quer árvore florida em espaço reduzido.",
     ],
     symbolism:
-      "Nas tradições do Pacífico, a plumeria é associada a amor e amizade e entra na composição de guirlandas oferecidas em boas-vindas e celebrações. No Brasil, costuma-se usar a flor em arranjos de verão e em mensagens de carinho. É um simbolismo ligado ao uso cultural de cada região, sem significado único entre os diferentes povos.",
+      "Nas tradições do Pacífico, a plumeria é oferecida em guirlandas para receber quem chega e para honrar quem se vai, e por isso carrega a ideia de afeto entregue em pessoa. Diz-se que o perfume dela cresce no fim do dia, o que a aproxima de amor que não se esconde. Para muitas culturas que a adotaram, ela ainda significa amizade firme — o tipo de relação que pode virar outra coisa sem perder a base.",
     colors: ["branco", "rosa", "amarelo"],
     meanings: ["amor", "amizade", "carinho"],
     occasions: ["casamento", "aniversario"],
@@ -488,19 +488,19 @@ export const flowersF4: Flower[] = [
     seo: {
       title: "Cerejeira: floração, cultivo e o hanami",
       description:
-        "A cerejeira cobre a copa de flores rosadas breves na primavera. Conheça o cultivo, a floração, a poda e o significado cultural do hanami no Japão.",
+        "Imagine levar alguém para ver a cerejeira em flor e descobrir por que essa breve floração virou convite de primavera para dois, do tipo que não se esqueça.",
     },
     summary:
-      "Árvore que estampa a primavera com flores rosadas breves, a cerejeira é símbolo japonês da beleza efêmera e da contemplação chamada hanami.",
+      "Cobre a árvore toda por poucos dias e some: a cerejeira transforma tempo curto em gesto que fica na memória de quem foi junto.",
     intro:
-      "A cerejeira é uma árvore ornamental da família das rosáceas, originária do Japão, da China e da Coreia, conhecida pela floração abundante que cobre a copa antes ou junto da rebrota das folhas. As flores, em tons de branco e rosa, aparecem em cachos e duram pouco, o que alimentou o hábito japonês de contemplá-las em grupo. É a espécie clássica das cerejeiras ornamentais, cultivadas pela flor.",
+      "Já existe o costume de marcar o encontro quando as primeiras flores aparecem, e quem participa entende o combinado sem explicação. Levar alguém para ver a cerejeira juntos é uma declaração de outra ordem: pede tempo livre, presença inteira e a disposição de olhar para o mesmo lugar ao mesmo tempo. Quando as pétalas caem e formam manta no chão, o recado está dado — o que importou foi estar lá.",
     description: [
       "A cerejeira ornamental floresce no fim do inverno e na primavera, conforme a região e a variedade. As pétalas podem ser simples ou dobradas, e a copa fica densa de flores por poucos dias, depois dos quais caem formando uma manta colorida no chão.",
       "As cultivares de cerejeira japonesa são escolhidas pela forma da copa e pela cor das flores, e nem sempre produzem frutos comestíveis. As cerejeiras de produção de fruto pertencem a espécies aparentadas do mesmo gênero, semelhantes na floração e distintas no uso.",
       "Como árvore de clima temperado, prefere sol pleno, solo profundo e drenado e um período frio bem definido antes da floração. Em regiões muito quentes e secas, o desenvolvimento fica comprometido e a floração pode ser irregular ou bem mais curta que o esperado.",
     ],
     symbolism:
-      "Na tradição japonesa, a cerejeira representa a beleza efêmera e a passagem das estações, e a contemplação das flores em grupo dá origem ao hanami. No Ocidente, costuma-se associar a floração ao renascimento da primavera e ao começo de um ciclo novo. É um sentido cultural, variado entre regiões, e não um símbolo universal.",
+      "Para muitas culturas, flor que dura pouco ensina mais que flor que fica — e na tradição japonesa isso virou o hanami, o costume de se reunir sob as árvores quando a copa enche. Diz-se que olhar a queda das pétalas ensina a agradecer o que foi bonito sem querer segurar. Quem leva alguém para ver a cerejeira em primavera costuma voltar com um recado na memória: presente também é ficar junto enquanto dura.",
     colors: ["rosa", "branco"],
     meanings: ["admiracao", "alegria", "saudade"],
     occasions: ["aniversario", "casamento"],
@@ -568,19 +568,19 @@ export const flowersF4: Flower[] = [
     seo: {
       title: "Trevo: o trevo da sorte e o plantio no jardim",
       description:
-        "O trevo é planta rasteira de flores brancas que cobre o solo e dá origem ao folclore do trevo da sorte, de quatro folhas. Entenda o cultivo.",
+        "Aprenda o que o trevo representa para quem precisa lembrar alguém de que a amizade insiste — e como a sorte das quatro folhas vira bilhete escrito à mão.",
     },
     summary:
-      "Planta rasteira de flores brancas em cabeça esférica, o trevo cobre o solo e inspira o folclore do trevo da sorte, de quatro folhas.",
+      "Achado no meio do gramado ou escolhido para entregar, o trevo diz que amizade também merece declaração — e costuma caber no bolso.",
     intro:
-      "O trevo é uma planta rasteira da família das fabáceas, formadora de tapetes verdes pontilhados de flores brancas em cabeça esférica. Nativa da Europa e da Ásia, ela se naturalizou em várias regiões e é comum em gramados, pastagens e margens de caminhos. Além do uso como cobertura de solo, o trevo é a planta por trás do folclore das quatro folhas, variação rara da espécie.",
+      "Achar um de quatro folhas no meio do gramado virou gesto de sorte, mas o que interessa aqui é o outro lado: colher ou comprar um punhado e entregar para alguém é dizer que a amizade continua. Funciona em aniversário, em recado de apoio ou na porta da casa de quem está passando por um dia ruim. O tamanho do presente não muda o tamanho do gesto — e é isso que costuma emocionar.",
     description: [
       "Cada flor do trevo reúne muitas flores pequenas em uma cabeça arredondada e macia, sustentada por um caule ereto que emerge da folhagem. As folhas são trifoliadas, com três folíolos marcados por uma mancha clara em forma de meia-lua, características que facilitam a identificação no campo.",
       "Como leguminosa, o trevo mantém relação com bactérias do solo que captam nitrogênio do ar e o disponibilizam às raízes. Por isso ele melhora a fertilidade de gramados e canteiros e dispensa adubação pesada para se manter verde e vivo.",
       "É uma planta de campo, resistente ao pisoteio leve e ao corte baixo. Em jardins, ela ocupa bem lugares onde a grama comum sofre, desde que o solo tenha boa drenagem e a área receba luz durante boa parte do dia.",
     ],
     symbolism:
-      "Na tradição europeia, as folhas do trevo viraram símbolo de sorte, sobretudo a variação de quatro folhas, considerada rara e encontrada por acaso. Segundo o folclore, quem a encontra teria boa fortuna. Fora desse contexto, o trevo costuma associar-se à amizade e à vitalidade simples das plantas de campo.",
+      "Diz-se que a variação rara de quatro folhas traz boa fortuna, e na tradição europeia isso virou um costume meio brincalhão de procurar no meio do gramado. Para muitas culturas, o trevo também fala de amizade e de vitalidade simples — o carinho que se entrega em bilhete engraçado ou em buquê colhido a caminho da casa do outro. Presente pequeno, gesto grande, e a surpresa fica por conta da intenção.",
     colors: ["branco"],
     meanings: ["amizade", "esperanca", "alegria"],
     occasions: ["aniversario", "nascimento"],
@@ -647,19 +647,19 @@ export const flowersF4: Flower[] = [
     seo: {
       title: "Ipê: a árvore símbolo do Brasil e sua floração",
       description:
-        "O ipê é árvore brasileira de floração amarela intensa no período seco, frequentemente apresentada como flor nacional. Conheça cultivo e curiosidades.",
+        "Olhe com calma o ipê, árvore de floração amarela intensa, e veja como ele transforma um presente qualquer em algo dito em voz alta na rua inteira.",
     },
     summary:
-      "Árvore brasileira que cobre a copa de flores amarelas no período seco, o ipê é uma das plantas mais emblemáticas do país.",
+      "Cobre a rua de amarelo sem avisar e faz qualquer calçada virar ocasião: o ipê é o gesto grande para quem quer dizer o que sente sem carta escrita.",
     intro:
-      "O ipê é uma árvore brasileira da família das bignoniáceas, conhecida por cobrir a copa inteira de flores amarelas quando perde as folhas, no período mais seco do ano. É frequentemente apresentada como flor nacional do Brasil e aparece em símbolos e paisagens de cidades de todo o país. Além do valor simbólico, é uma das árvores ornamentais mais plantadas em praças e avenidas.",
+      "Há quem pare na calçada só para olhar, e é aí que o gesto começa: levar alguém para ver a copa amarela aberta na rua é uma forma de declaração sem discurso. A árvore aparece em cartão, em foto de família e em presente porque a paisagem inteira participa do recado. Quando a floração vem, basta apontar e dizer: presta atenção no que eu quis te mostrar.",
     description: [
       "O ipê-amarelo produz flores em forma de trombeta, agrupadas nas pontas dos ramos. A floração acontece quando a árvore está quase sem folhas, o que intensifica a cor e faz com que a copa pareça um único bloco amarelo visto de longe.",
       "É uma árvore de pequeno a médio porte, de crescimento moderado, que prefere sol pleno e solo bem drenado. As raízes são sensíveis ao encharcamento, e as folhas podem ser atacadas por insetos minadores, o problema mais comum em ambiente urbano.",
       "A madeira do ipê é densa e resistente, valorizada em construções e marcenaria, o que levou à exploração intensa de espécies nativas nas últimas décadas. Por isso, o plantio de mudas em áreas urbanas ganhou espaço como forma de manter a espécie presente na paisagem.",
     ],
     symbolism:
-      "Na tradição brasileira, o ipê costuma associar-se à identidade nacional e à paisagem do cerrado e da mata atlântica, e sua floração marca mudanças de estação em diversas regiões. Segundo o uso popular, ele representa admiração e alegria diante da árvore que transforma a rua em poucos dias. É um símbolo cultural, não um significado universal.",
+      "Na tradição brasileira, o ipê costuma aparecer como símbolo de identidade nacional, e a floração dele marca mudança de estação em várias regiões do país. Diz-se que a rua inteira fica outra quando a copa abre de uma hora para a outra. Para muitas culturas que cresceram vendo essa árvore, o amarelo significa admiração e alegria — bom para presentear quem mudou o seu caminho.",
     colors: ["amarelo"],
     meanings: ["admiracao", "alegria", "esperanca"],
     occasions: ["dia-dos-pais", "aniversario"],
@@ -727,19 +727,19 @@ export const flowersF4: Flower[] = [
     seo: {
       title: "Vitória-régia: a gigante da Amazônia em detalhes",
       description:
-        "A vitória-régia é a planta aquática de folhas gigantes da Amazônia, com flores que abrem à noite. Veja cultivo, curiosidades, significado e cuidados.",
+        "Perceba como a vitória-régia, a gigante da Amazônia que abre só à noite, virou presente raro de admiração para quem busca começar de novo ao lado de alguém.",
     },
     summary:
-      "Planta aquática amazônica de folhas gigantes e flores noturnas, a vitória-régia vive em lagoas e viveiros, nunca em vaso de ambiente fechado.",
+      "Abre só quando anoitece e pede lagoa inteira: a vitória-régia é flor rara para quem quer admirar sem pressa.",
     intro:
-      "A vitória-régia é uma planta aquática nativa da bacia amazônica, conhecida pelas folhas circulares de enorme tamanho que flutuam sobre a água e pelas flores que se abrem à noite. Pertencente à família das ninfáceas, ela fixa as raízes no substrato do fundo e ergue folhas e flores acima da superfície. É uma planta de lagoa e de jardim aquático, não de vaso de interior.",
+      "Há flores que se entregam no aperto da mão, e essa não é uma delas: ela pede lagoa, noite e tempo. Levada como presente numa data marcada — ou usada como desculpa para marcar um encontro —, ela transforma a visita a um jardim aquático em passeio a dois, do tipo em que ninguém olha o relógio. O gesto fica na memória justamente porque exige planejamento.",
     description: [
       "As folhas da vitória-régia têm bordas erguidas e nervuras marcadas na parte inferior, estrutura que distribui o peso pela superfície toda. É essa construção que permite que sustentem objetos apoiados no centro da folha, fato que virou imagem clássica de jardins botânicos.",
       "A floração acontece à noite: as flores brancas se abrem em uma primeira noite, depois fecham e completam a segunda fase rosando antes de se desfazerem. O perfume, mais forte no escuro, atrai os polinizadores noturnos que visitam a espécie.",
       "Cultivada em regiões tropicais e em estufas quentes, a planta precisa de espaço, sol pleno e água morna e limpa. Em cidades, aparece em jardins botânicos e parques aquáticos, onde os reservatórios são preparados para o grande porte das folhas.",
     ],
     symbolism:
-      "No Brasil, a vitória-régia costuma associar-se ao orgulho amazônico e à imagem da natureza exuberante, presente em símbolos regionais e em ilustrações escolares. Segundo o uso cultural, a flor também representa admiração diante do que é grandioso. É um sentido construído pela paisagem e pela memória do país, e não um significado universal.",
+      "No Brasil, a vitória-régia virou imagem do que muita gente chama de orgulho amazônico, e a tradição regional a mantém em símbolos e em ilustrações de escola. Diz-se que olhar aquelas folhas gigantes dá a sensação de estar diante de algo que não cabe na conversa comum. Para quem cresceu vendo, a flor que abre à noite significa admiração — e um presente entregue assim, sem pressa, costuma dizer mais que qualquer declaração apressada.",
     colors: ["branco", "rosa"],
     meanings: ["admiracao", "esperanca"],
     occasions: ["aniversario", "nascimento"],

@@ -11,10 +11,13 @@ const COLUMNS: FooterColumn[] = [
   {
     title: "Explore",
     links: [
+      { href: "/gestos", label: "Gestos" },
       { href: "/flores", label: "Flores" },
       { href: "/significados", label: "Significados" },
       { href: "/cores", label: "Cores" },
       { href: "/ocasioes", label: "Ocasiões" },
+      { href: "/caracteristicas", label: "Características" },
+      { href: "/combinacoes", label: "Combinações" },
       { href: "/guias", label: "Guias" },
       { href: "/qual-flor", label: "Qual Flor?" },
     ],

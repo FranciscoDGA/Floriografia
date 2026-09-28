@@ -23,8 +23,8 @@ export default function SignificadosPage() {
     <>
       <PageHeader
         title="Significados"
-        eyebrow="Linguagem das flores"
-        description="Tradição cultural, não regra: cada significado muda conforme a cultura, a época e o contexto. Use esta página como ponto de partida para escolher a flor certa."
+        eyebrow="A linguagem antiga"
+        description="Toda flor diz alguma coisa — e há séculos as pessoas se entendem por isso. Escolha primeiro a mensagem (amor, saudade, perdão, gratidão): a flor certa vem em seguida."
         breadcrumbs={[{ name: "Significados", path: "/significados" }]}
       />
 

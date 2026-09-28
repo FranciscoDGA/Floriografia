@@ -12,18 +12,18 @@ export const flowersF3: Flower[] = [
     seo: {
       title: "Hibisco: significado, cores e cuidados",
       description:
-        "Conheça o hibisco: as cores mais comuns, o que a flor representa na tradição, como cultivar em vaso ou no jardim e por que cada flor dura só um dia.",
+        "Uma flor por dia: entenda o que o hibisco diz em declarações, agradecimentos e desculpas, e por que a brevidade dele vale mais que o buquê grande.",
     },
     summary:
-      "Flor tropical de pétalas amplas e cor intensa, o hibisco abre por apenas um dia e renova o arbusto com novas flores.",
+      "Abre de manhã e se fecha antes do anoitecer: o hibisco é a flor de quem tem pouco tempo e mesmo assim aparece inteiro.",
     intro:
-      "O hibisco é uma das flores tropicais mais reconhecíveis do mundo, com pétalas amplas que se abrem em cores intensas e um centro marcante em forma de tubo. Cada flor costuma durar apenas um dia, mas a planta produz novas brotações com frequência, mantendo o arbusto colorido por boa parte do ano. Fácil de encontrar em jardins, quintais e vasos, o hibisco combina apelo ornamental com uso culinário em várias culturas.",
+      "Imagine receber uma flor que só vai estar aberta até o fim da tarde. É esse o recado do hibisco: presença inteira por pouco tempo, sem promessa de eternidade. Quem o leva a alguém costuma querer dizer que este dia valeu a pena, que o gesto não precisa durar para ser verdadeiro. Chega bem em visita de fim de tarde, em agradecimento sem motivo e em declaração que não quer parecer ensaiada.",
     description: [
       "Pertencente à família das malváceas, a mesma do algodão e da quaresmeira, a Hibiscus rosa-sinensis forma arbustos de folhagem verde-escura e flores solitárias nas pontas dos ramos. As pétalas se sobrepõem em um disco aberto, e o estame longo se destaca no centro. Existem centenas de cultivares, com cores e formatos variados.",
       "O arbusto pede sol pleno, rega regular sem encharcar o solo e podas leves para manter a forma e estimular novas flores. Em regiões frias, funciona bem em vaso e pode ser levado para dentro no inverno. As flores são muito usadas em jardins tropicais e também em infusões e receitas em vários países.",
     ],
     symbolism:
-      "Na tradição ocidental, o hibisco costuma ser associado a beleza delicada e ao prazer do momento presente, justamente porque a flor abre por tão pouco tempo. Em ilhas do Pacífico e em partes do Caribe, usá-la no cabelo ou atrás da orelha é gesto de simpatia e afeto. O uso mais comum, no entanto, segue sendo decorativo.",
+      "Na tradição de várias culturas tropicais, o hibisco está ligado a beleza que não se demora e ao prazer de estar no presente. Diz-se que oferecê-lo é reconhecer um momento bonito sem tentar segurá-lo. Em ilhas do Pacífico e em partes do Caribe, usá-lo no cabelo ou atrás da orelha é gesto de simpatia e afeto, e há quem leia na cor vermelha uma paixão breve e intensa.",
     colors: ["vermelho", "amarelo", "laranja"],
     meanings: ["amor", "admiracao", "alegria"],
     occasions: ["aniversario", "dia-das-maes"],
@@ -96,18 +96,18 @@ export const flowersF3: Flower[] = [
     seo: {
       title: "Magnólia: significado, beleza e cultivo",
       description:
-        "A magnólia é um dos grupos mais antigos de plantas com flor. Veja o que ela simboliza na tradição ocidental, como plantar e quais cuidados pede.",
+        "Presente de quem tem pressa zero: veja o que a magnólia significa em gestos de respeito, por que ela floresce antes das folhas e como escolher a sua.",
     },
     summary:
-      "Flor de porte ancestral, a magnólia abre pétalas amplas e perfumadas, muitas vezes antes de a folhagem dominar os ramos.",
+      "Pétala aberta antes das folhas, a magnólia chega sem aviso e transforma um galho simples em declaração de respeito.",
     intro:
-      "A magnólia é considerada um dos grupos mais antigos entre as plantas com flor, presente no registro fóssil muito antes da chegada das abelhas atuais. Suas flores são grandes, com pétalas espessas e frequentemente perfumadas, e aparecem no fim do inverno ou na primavera, muitas vezes antes das folhas. O gênero reúne arbustos e árvores ornamentais muito apreciados em jardins de clima temperado e subtropical.",
+      "Há algo de corajoso em uma árvore inteira florescer antes de brotar as folhas: primeiro a pétala, depois o resto. É assim a magnólia, e é assim que ela ensina a gente a começar. Quem oferece um galho dela raramente está só elogiando o jardim — está dizendo que admira alguém de um jeito sólido, sem pressa e sem meia-palavra. O gesto combina com desculpas antigas, com reconhecimento e com presente que quer significado.",
     description: [
       "As magnólias formam arbustos ou árvores de folhagem simples e brilhante, com flores solitárias de formato copo ou prato. Nas espécies de folha caduca, a floração antecede a brotação e cobre os ramos vazios de cor. As folhas são aromáticas quando esmagadas, e os frutos lembram cones que se abrem liberando sementes.",
       "No jardim, a magnólia pede solo firme, bem drenado e ligeiramente ácido, luz do sol ou meia-sombra e abrigo contra ventos fortes. Raízes rasas agradecem cobertura morta e pouca mexida no pé. Em vaso, cresce devagar e pode ficar anos no mesmo recipiente, com troca cuidadosa de substrato quando necessário.",
     ],
     symbolism:
-      "Na tradição ocidental, a magnólia costuma representar dignidade, nobreza e perseverança, em parte por ser árvore de presença sólida e floração generosa. No sul dos Estados Unidos, a magnólia de folha perene é símbolo clássico de hospitalidade e de casas antigas. Ao oferecer a flor, o gesto costuma ser lido como respeito e admiração sincera.",
+      "Na tradição ocidental, a magnólia costuma representar dignidade, nobreza e perseverança, em parte por ser árvore de presença firme e floração generosa. Diz-se que, no sul dos Estados Unidos, oferecer sua flor é forma de acolhimento e de respeito. Para muitas culturas, uma magnólia nas mãos significa admiração dita com serenidade, o que a torna escolha comum em gestos de reconhecimento e em desculpas que querem parecer pensadas.",
     colors: ["branco", "rosa"],
     meanings: ["admiracao", "esperanca", "carinho"],
     occasions: ["casamento", "dia-das-maes"],
@@ -176,18 +176,18 @@ export const flowersF3: Flower[] = [
     seo: {
       title: "Jacinto: significado, aroma e cultivo",
       description:
-        "Jacinto é o bulbo perfumado da virada da estação. Entenda o simbolismo na tradição ocidental, como forçar em vaso e o que fazer depois da floração.",
+        "Quer reatar sem forçar? É por isso que o jacinto aparece em gestos de reconciliação: floresce antes da estação e deixa o perfume marcando a casa por semanas.",
     },
     summary:
-      "Bulbo de aroma intenso e espiga densa de flores, o jacinto antecipa a estação fria com cores vivas e perfume marcante.",
+      "Aroma que enche a casa antes da primavera chegar: o jacinto é o gesto de quem não espera a estação mudar para se declarar.",
     intro:
-      "O jacinto é um bulbo originário do Oriente Próximo e do Mediterrâneo, cultivado há séculos por causa da espiga compacta de flores tubulares e do perfume forte que exala dela. As folhas lineares surgem antes da haste floral e permanecem depois da floração, alimentando o bulbo para a safra seguinte. É comum ver jacintos em jardins no fim do inverno e em vasos forçados dentro de casa.",
+      "O jacinto chega quase sempre antes da estação virar, e é justamente aí que ele faz sentido. Quem coloca um vaso dele na mesa está dizendo que ficou, que a espera valeu e que a casa continuou de pé. O perfume forte ajuda, claro, mas o recado é outro: constância. Combina com reencontro depois de uma briga, com agradecimento pela paciência de alguém e com declaração feita sem alarde.",
     description: [
       "Cada bulbo produz uma única haste, com muitas flores miúdas dispostas ao longo do eixo. As cores vão do roxo e do azul ao rosa, ao branco e ao amarelo, e há formas duplas de aspecto mais cheio. O perfume é um dos mais marcantes entre as flores de bulbo e chega a encher ambientes pequenos.",
       "Para florir, os bulbos precisam de um período de frio antes do replantio, o que explica por que em regiões quentes eles são comprados já forçados. Em vaso, pedem luz boa, rega moderada e substrato drenante. Depois das flores secarem, a folhagem deve continuar até amarelar naturalmente para que o bulbo guarde energia.",
     ],
     symbolism:
-      "Na tradição ocidental, o jacinto costuma estar ligado a constância e lealdade, e em algumas leituras antigas da linguagem das flores também a arrependimento. No mito grego, a flor nasceria do sangue de Híacinto, amigo de Apolo, o que reforça a ideia de memória e afeto. Nas celebrações de primavera do Oriente Próximo, o jacinto aparece como sinal de renovação.",
+      "Na tradição da linguagem das flores consolidada na Europa, o jacinto costuma estar ligado a constância e lealdade, e em algumas leituras antigas também a arrependimento. Diz-se que a flor nasceu do sangue de Híacinto, amigo de Apolo, o que reforça a ideia de memória e de afeto que não se apaga. Nas celebrações de primavera do Oriente Próximo, aparece como sinal de renovação e de recomeço entre pessoas.",
     colors: ["roxo", "branco", "rosa"],
     meanings: ["esperanca", "amor", "alegria"],
     occasions: ["dia-das-maes", "casamento"],
@@ -255,18 +255,18 @@ export const flowersF3: Flower[] = [
     seo: {
       title: "Narciso: significado, tipos e cultivo",
       description:
-        "Da estrutura da flor ao simbolismo na tradição: entenda o narciso, suas cores e tipos, e aprenda a cuidar do bulbo para que ele volte a florir.",
+        "Duas leituras, uma decisão: veja o que o narciso significa para quem quer recomeçar, agradecer ou marcar a virada da estação com alguém querido.",
     },
     summary:
-      "Bulbo clássico da primavera, o narciso abre flor tubular com coroa central e anuncia a virada da estação.",
+      "A coroa amarela que anuncia a virada da estação: o narciso combina com agradecimento e com começo de conversa.",
     intro:
-      "O narciso reúne um grupo de espécies e cultivares nativos da Europa e da bacia do Mediterrâneo, todos com a mesma estrutura reconhecível: um tubo de pétalas com uma coroa ou tromba no centro. É planta de bulbo, de folhagem anual, que arma a reserva no outono e floresce no fim do inverno ou na primavera. No Brasil, é comum em canteiros de clima mais frio e em vasos sazonais.",
+      "Quem recebe narciso geralmente não está pedindo nada complicado. A flor de coroa marcante chega no fim do inverno, quando a gente já está cansada da friagem, e diz que há algo bom vindo por aí. É um presente de começo — de relação que começa, de recomeço depois de um tempo difícil, de agradecimento por alguém ter ficado. O gesto funciona melhor quando vem com uma frase sincera na mão.",
     description: [
       "Botanicamente, o narciso é amarilidácea, mesma família de outros bulbos ornamentais. A floração sai de um bulbo com folhas achatadas, semelhantes a fitas, e a haste carrega uma ou poucas flores. As cores predominantes são o amarelo e o branco, com variações em laranja e em formas duplas entre os cultivares híbridos.",
       "O cultivo é simples em solo drenante e ensolarado: os bulbos se desenvolvem no outono e precisam de pouca água no verão, quando entram em repouso. Em regiões quentes, armazenamento fresco e seco substitui o frio natural. Depois da floração, deixar a folhagem secar é o que garante a reserva para o ano seguinte.",
     ],
     symbolism:
-      "Na tradição ocidental, o narciso tem duas leituras. Uma é o mito de Narciso, que se apaixonou pela própria imagem, o que fez a flor virar símbolo de vaidade e de excesso de si. Outra, mais recente, associa o narciso à renovação e à boa sorte por antecipar a primavera, tradição especialmente forte em algumas regiões da Europa.",
+      "Na tradição ocidental, o narciso tem duas leituras que convivem. Uma vem do mito de Narciso, que se apaixonou pela própria imagem e fez da flor símbolo de vaidade; outra, mais recente, associa o narciso à renovação e à boa sorte por antecipar a primavera. Diz-se que, em algumas regiões da Europa, oferecê-lo na virada do ano é modo de desejar começo novo para alguém.",
     colors: ["amarelo", "branco", "laranja"],
     meanings: ["esperanca", "admiracao", "alegria"],
     occasions: ["aniversario", "nascimento"],
@@ -338,18 +338,18 @@ export const flowersF3: Flower[] = [
     seo: {
       title: "Lírio-da-paz: cuidados e significado",
       description:
-        "Planta de sombra que floresce dentro de casa: veja como regar o lírio-da-paz, quanto luz ele precisa e por que manter as folhas longe de crianças e animais.",
+        "Ela fica semanas em casa e continua dizendo a mesma coisa: veja por que o lírio-da-paz virou presente de pedido de desculpas e de reencontro.",
     },
     summary:
-      "Planta de sombra com espata branca e folhagem verde, o lírio-da-paz floresce em interiores e gosta de luz indireta.",
+      "Branca, silenciosa e de longa duração: o lírio-da-paz é a flor de quem pede desculpas sem precisar levantar a voz.",
     intro:
-      "O lírio-da-paz é uma arácea da América tropical, muito cultivada como planta de interior por tolerar luz indireta e manter as flores por longo período. O que parece uma flor é uma espata, folha modificada de aspecto ceroso, que envolve uma espiga com as flores verdadeiras. De porte baixo e folhagem arqueada, combina bem em mesas, estantes e escritórios, e floresce com mais frequência quando recebe luz e calor estáveis.",
+      "Tem desculpa que precisa de papel e tem desculpa que cabe num vaso. O lírio-da-paz, de espata branca e folhagem arqueada, é a segunda: chega quieta na mesa, dura semanas e continua ali lembrando a pessoa de que a conversa ficou pendente. É presente comum em pedido de reconciliação e também em casamento, porque diz o mesmo em duas alturas diferentes — que a calma entre os dois importa.",
     description: [
       "As folhas são brilhantes e lanceoladas, saindo diretamente do substrato, e as espatas nascem entre elas em número pequeno por vez. A planta prefere ambiente úmido e quente, sem corrente de ar frio. Como outras aráceas, contém oxalato de cálcio nas folhas: se mastigada, pode irritar a boca e a garganta, o que vale para crianças e animais.",
       "Em casa, funciona melhor perto de janela com luz filtrada e longe do sol da tarde. Regue quando a superfície do substrato secar, sem deixar a base encharcada. O substrato precisa ser arejado, e a planta agradece limpeza ocasional das folhas com pano úmido para retirar a poeira.",
     ],
     symbolism:
-      "Segundo o uso tradicional na floriografia ocidental, o lírio-da-paz representa serenidade, reconciliação e bons desejos, o que explica a presença dele em arranjos de casamento e em gestos de desculpas. O nome popular reforça essa leitura e acompanha a planta desde sua entrada no comércio de flores. Costuma-se oferecer também em ambientes de trabalho, como sinal de tranquilidade.",
+      "Na tradição da floriografia ocidental, o lírio-da-paz representa serenidade, reconciliação e bons desejos, o que explica a presença dele em arranjos de casamento e em gestos de desculpas. O nome popular reforça essa leitura e acompanha a planta desde sua entrada no comércio de flores. Diz-se que oferecê-lo é pedir paz em casa e anunciar que se quer voltar a conversar sem gritaria.",
     colors: ["branco", "verde"],
     meanings: ["perdao", "esperanca", "carinho"],
     occasions: ["casamento", "pedido-de-desculpas", "dia-das-maes"],
@@ -422,18 +422,18 @@ export const flowersF3: Flower[] = [
     seo: {
       title: "Freesia: significado, aroma e cultivo",
       description:
-        "A freesia é uma das flores mais perfumadas do jardim. Veja o simbolismo tradicional, como plantar cormos e como fazer a flor durar mais no vaso.",
+        "Amizade que virou outra coisa? Veja o que a freesia simboliza em presentes entre duas pessoas e por que o perfume dela fica na memória de quem recebe.",
     },
     summary:
-      "Ciperácea de perfume intenso e flores alinhadas de um lado da haste, a freesia é clássica em buquês e em jardins de clima ameno.",
+      "Perfume doce em haste curvada, a freesia combina com amizade que virou declaração sem ninguém combinar antes.",
     intro:
-      "A freesia vem do sul da África e pertence à mesma família do iris. Suas flores se alinham de um lado só da haste, que se curva, e abrem em sequência do início para o fim. O perfume, doce e floral, é uma das marcas da planta e já foi usado em perfumaria. Há freesias em várias cores, do branco ao lilás passando por amarelo e rosa, e o gênero reúne espécies e híbridos.",
+      "A freesia tem um jeito discreto de aparecer: as flores se alinham de um lado só da haste, como quem não quer chamar atenção, e o perfume entrega o resto. É a flor de presente entre amigos, de declaração disfarçada de carinho e de quem quer dizer algo importante sem cerimônia. Chega bem no meio de um buquê simples, ou sozinha num copo, com um bilhete curto.",
     description: [
       "O que se planta é um cormo, estrutura parecida com um bulbo, do qual saem folhas finas em leque e hastes eretas que se curvam com o peso das flores. Cada haste carrega várias flores tubulares de formato assimétrico. A floração acontece no fim do inverno e na primavera em clima ameno, e a planta entra em repouso depois que as folhas secam.",
       "No jardim, a freesia pede sol pleno, substrato drenante e rega moderada; cormos encharcados apodrecem. Em vaso, funciona bem na varanda e até dentro de casa, desde que tenha luz boa. Depois da floração, deixe a folhagem secar antes de guardar os cormos, para que acumulem energia para a safra seguinte.",
     ],
     symbolism:
-      "Na linguagem das flores consolidada no século XIX na Europa, a freesia costuma representar confiança, inocência e amizade sincera. Por causa disso, ela aparece com frequência em arranjos de noivas e em presentes entre amigos. Segundo o uso tradicional, oferecer freesias amarelas reforça a leitura de afeto sem formalidade, enquanto as brancas aparecem em gestos mais reservados.",
+      "Na tradição da linguagem das flores consolidada no século XIX na Europa, a freesia costuma representar confiança, inocência e amizade sincera. Por isso aparece com frequência em arranjos de noivas e em presentes entre amigos. Diz-se que freesias amarelas reforçam afeto sem formalidade, enquanto as brancas ficam para gestos mais reservados — e que oferecê-las é modo educado de dizer: confio em você.",
     colors: ["amarelo", "branco", "lilas"],
     meanings: ["amizade", "carinho", "esperanca"],
     occasions: ["aniversario", "casamento", "dia-dos-namorados"],
@@ -505,18 +505,18 @@ export const flowersF3: Flower[] = [
     seo: {
       title: "Antúrio: significado, cores e cuidados",
       description:
-        "Conheça o antúrio: flor tropical em forma de coração, vermelha, rosa ou branca, com brilho ceroso, significado tradicional e dicas de cultivo.",
+        "Coração que não é só desenho: entenda por que o antúrio aparece em declarações e o que a cor vermelha dele reforça no gesto de quem entrega.",
     },
     summary:
-      "De espata brilhante em forma de coração, o antúrio é planta tropical de flor duradoura, muito usada em vaso e em arranjos.",
+      "Espata em forma de coração e brilho de coisa nova, o antúrio é a flor de quem declara sem disfarçar a intenção.",
     intro:
-      "O antúrio é uma arácea da América tropical, nativa de regiões da Colômbia e do Equador, conhecida pela espata brilhante que parece plastificada e pela espiga ereta no centro. Entre as flores tropicais de vaso, é uma das que mais se mantém vistosa, tanto na planta quanto em arranjo. Existe em vermelho, rosa, branco e verde, além de formas com a espata mais arredondada ou alongada.",
+      "O antúrio não pede licença: a espata brilhante já nasce com forma de coração e o brilho parece de acabamento novo. Quem entrega essa flor está cortando o caminho entre o sentimento e a frase difícil de falar. Funciona na declaração de namoro, no pedido de desculpas corajoso e também em casa de quem mora junto há anos e quer reacender alguma coisa com um gesto simples.",
     description: [
       "A parte colorida é uma espata, folha modificada, e as flores de verdade estão na espiga em relevo. É planta de mata quente, de sombra amena, e por isso rende bem dentro de casa com luz indireta. Como outras aráceas, contém oxalato de cálcio: folhas e flores podem irritar a boca se forem mastigadas, o que vale para crianças e animais.",
       "No cultivo, o antúrio pede substrato arejado, umidade constante sem encharcar e temperatura estável. Quando bem cuidado, produz novas espatas ao longo das estações quentes. Em jardim, funciona em canteiro abrigado; em regiões frias, o vaso é a alternativa mais segura, com abrigo no inverno.",
     ],
     symbolism:
-      "Na tradição ocidental, o antúrio costuma ser associado ao amor declarado e à hospitalidade, e por isso aparece em arranjos românticos e em entradas de casa. As leituras variam conforme a cor: o vermelho reforça a ideia de paixão, enquanto o branco aparece em gestos mais sóbrios. O uso decorativo predomina, e o símbolo costuma ser mais discreto do que a própria flor.",
+      "Na tradição ocidental, o antúrio costuma ser associado ao amor declarado e à hospitalidade, e por isso aparece em arranjos românticos e em entradas de casa. As leituras variam conforme a cor: o vermelho reforça a paixão dita em voz alta, o branco aparece em gestos mais sóbrios. Diz-se que a flor fica bonita tempo suficiente para a pessoa perceber que aquilo era sério.",
     colors: ["vermelho", "rosa", "branco"],
     meanings: ["amor", "admiracao", "carinho"],
     occasions: ["dia-dos-namorados", "casamento", "aniversario"],
@@ -588,18 +588,18 @@ export const flowersF3: Flower[] = [
     seo: {
       title: "Estrelícia: flor-do-paraíso e cuidados",
       description:
-        "Tudo sobre a estrelícia, a flor-do-paraíso: origem sul-africana, cores laranja e azul, significado tradicional e como cultivar sem expor ao frio.",
+        "Presente de vitória com nome de pássaro: veja o que a estrelícia significa em celebrações, em presentes grandes e por que ela dura tanto no vaso.",
     },
     summary:
-      "Tropical de forma de pássaro em voo, a estrelícia é vistosa, sensível ao frio e uma das flores de corte mais duráveis.",
+      "Pássaro de sépalas laranja congelado no meio do voo, a estrelícia chega em celebração e não passa despercebida.",
     intro:
-      "A estrelícia, também chamada de flor-do-paraíso ou flor-pássaro, é uma herbácea perene do sul da África, com folhas parecidas com as do bananeiro e flores que se assemelham a um pássaro de cores vivas. Cada broto carrega uma haste triangular de onde saem sépalas alaranjadas e pétalas azuis. É planta de clima quente, muito usada em jardins tropicais e um clássico entre as flores de vaso e de arranjo.",
+      "Algumas flores chegam pedindo licença; a estrelícia chega pousando. Com forma de pássaro e cores que ninguém finge não ver, ela combina com momento de vitória — formatura, promoção, aniversário de quem venceu um ano difícil. É também escolha de quem quer fazer um presente grandioso sem escrever carta: o arranjo já fala sozinho, e a haste continua firme por dias, sustentando o recado.",
     description: [
       "A flor se monta sobre uma estrutura horizontal de onde as pétalas azuis saltam como a cauda de um pássaro, e as sépalas laranja formam a crista. A haste só abre algumas flores por vez, o que estende a exibição. A planta forma touceiras densas, de folhagem verde-escura, e se desenvolve melhor em solo fértil com sol pleno.",
       "É sensível a frio intenso e a geadas: em regiões frias, é melhor manter em vaso e abrigar no inverno. Em clima quente, rende bem em canteiro e se espalha devagar. Em vaso, pede espaço, luz e adubo; a floração aparece mais abundante quando a planta já ganhou porte e raízes.",
     ],
     symbolism:
-      "Na tradição ocidental, a estrelícia costuma ser lida como símbolo de liberdade, alegria e exotismo, e por isso aparece em arranjos de celebração. Em algumas leituras, a flor também se associa ao sucesso que se abre com destaque e à chegada de bons momentos. Como a planta não tem simbolismo antigo, a maior parte dessa leitura é recente e decorativa.",
+      "Na tradição ocidental, a estrelícia costuma ser lida como símbolo de liberdade, alegria e exotismo, e por isso aparece em arranjos de celebração. Diz-se que a flor também se associa ao sucesso que se abre com destaque e à chegada de bons momentos. Como o simbolismo é recente, muita gente a usa sem consulta nenhuma: só pelo que ela transmite de generoso ao entrar na sala.",
     colors: ["laranja", "azul", "amarelo"],
     meanings: ["alegria", "admiracao"],
     occasions: ["aniversario", "formatura", "casamento"],
@@ -668,18 +668,18 @@ export const flowersF3: Flower[] = [
     seo: {
       title: "Buganvilha: significado, cores e poda",
       description:
-        "Tudo sobre a buganvilha: trepadeira tropical de brácteas coloridas, simbolismo tradicional, poda, rega e dicas para proteger a planta do frio no inverno.",
+        "Cobre muros e também a mão que oferece: veja o que a buganvilha significa em gestos de agradecimento, acolhimento e reencontro depois de um silêncio longo.",
     },
     summary:
-      "Trepadeira tropical de brácteas coloridas e duradouras, a buganvilha cobre muros e cercas em climas quentes.",
+      "Cor que não pede sombra nem desbota no sol forte, a buganvilha é o gesto de quem acolhe e nunca economiza em cor.",
     intro:
-      "A buganvilha é uma trepadeira nativa da América do Sul tropical, que se espalha com espinhos e se agarra em muros, grades e árvores. O que se toma por flor são três brácteas finas e coloridas ao redor de flores miúdas e brancas. De crescimento vigoroso, ela floresce com mais intensidade quando recebe sol pleno e pouca água, e é uma das plantas mais usadas em paisagismo de regiões quentes.",
+      "A buganvilha faz as pazes com muro feio, grade velha e quintal esquecido — ela cobre, e ninguém continua vendo o que estava por trás. É um jeito bom de dizer que alguém importa: chegar com a casa arrumada, com o portão aberto, com um buquê dela na mesa. Combina com agradecimento, com visita depois de um silêncio longo e com presente de quem quer marcar presença sem falar muito.",
     description: [
       "As brácteas ficam secas por muito tempo, mesmo na planta, e é por isso que a cor se mantém por semanas em cada ponta. Por baixo delas, as flores brancas tubulares surgem em pequenos grupos. As cores mais comuns são o rosa intenso, o laranja, o roxo e o branco, com cultivares amarelos e bicolorados.",
       "A planta gosta de sol e de calor, e a floração diminui em lugar sombreado ou com muita água e adubo nitrogenado. A poda depois de cada ciclo ajuda a ramificar e a manter o formato. Em regiões frias, é sensível a frio intenso e pode perder as folhas; em vaso, é mais fácil proteger.",
     ],
     symbolism:
-      "Na tradição de muitos países tropicais, a buganvilha costuma ser associada a vitalidade, calor e acolhimento, e por isso aparece em cercas e entradas de casa. Em alguns contextos, a cor intensa é lida como paixão; em outros, como alegria de receber. O uso é sobretudo decorativo, e o sentido depende mais do lugar onde a planta está do que de um simbolismo fixo.",
+      "Na tradição de muitos países tropicais, a buganvilha costuma ser associada a vitalidade, calor e acolhimento, e por isso aparece em cercas e entradas de casa. Em alguns contextos, a cor intensa é lida como paixão; em outros, como alegria de receber. Diz-se que o sentido depende mais do lugar onde ela está plantada do que de um significado fixo, e oferecê-la é dizer que ali a pessoa é bem-vinda.",
     colors: ["rosa", "laranja", "roxo"],
     meanings: ["alegria", "amor", "gratidao"],
     occasions: ["aniversario", "dia-dos-pais"],
@@ -752,18 +752,18 @@ export const flowersF3: Flower[] = [
     seo: {
       title: "Amapola: significado, cultivo e tipos",
       description:
-        "A amapola é anual, delicada e fácil de semear. Veja o que ela representa na tradição ocidental, como cultivar no jardim e por que dura pouco no vaso.",
+        "Delicada e breve, como a saudade: veja o que a amapola significa em gestos de lembrança e por que ela aparece em homenagens e em pedidos de condolência.",
     },
     summary:
-      "Anual de pétalas finas como papel, a amapola abre em cores fortes e logo depois se desfaz, mas semeia sozinha.",
+      "Flor de papel que abre e some em poucos dias, a amapola fala de saudade sem precisar de discurso nem de carta.",
     intro:
-      "A amapola é uma planta anual de porte ereto, nativa da Europa e da Ásia temperada, conhecida por aparecer em campos e beiras de estrada depois que o solo é remexido. As pétalas são finas e pregueadas dentro do botão, e se desdobram com o primeiro sol. Em jardim, funciona em canteiros informais e em misturas de flores silvestres; em vaso, pede profundidade e luz boa para se desenvolver.",
+      "Há presente que não conserta nada, mas que admite que a falta existe. A amapola, com pétalas finas de papel e um vermelho que não pede licença, serve para esse momento: condolência, lembrança de quem se foi, saudade de quem mora longe. Ela dura pouco mesmo, e talvez seja por isso que funcione — alguns gestos dizem mais justamente porque não tentam ficar.",
     description: [
       "Cada haste termina em uma flor grande, quase sempre vermelha, com mancha escura na base e centro de estames escuros. Existem formas rosa, brancas e arroxeadas em cultivo. A planta é delicada depois do transplante, por isso se recomenda semear direto no lugar onde vai florescer, em solo leve e com sol pleno.",
       "O cultivo é simples em solo comum e bem drenado: pouca água, sol e paciência. A floração acontece na primavera e no verão, e cada flor abre por pouco tempo, mas a planta compensa abrindo várias em sequência. Deixar a haste secar no lugar permite que as sementes caiam e apareçam na estação seguinte.",
     ],
     symbolism:
-      "Na tradição ocidental, a amapola vermelha é usada como símbolo de lembrança e de consolo, uso fortalecido após a Primeira Guerra Mundial e mantido em cerimônias de memória. Antes disso, a flor já aparecia ligada ao sono e ao esquecimento na Antiguidade europeia. Em arranjos, a leitura costuma ser de delicadeza e de lembrança afetuosa.",
+      "Na tradição ocidental, a amapola vermelha é usada como símbolo de lembrança e de consolo, uso fortalecido depois da Primeira Guerra Mundial e mantido em cerimônias de memória. Antes disso, a flor já aparecia ligada ao sono e ao esquecimento na Antiguidade europeia. Diz-se que levá-la a alguém é modo delicado de dizer que a pessoa continua presente na lembrança de quem entrega.",
     colors: ["vermelho", "rosa", "branco"],
     meanings: ["saudade", "esperanca", "luto"],
     occasions: ["condolencias", "aniversario"],

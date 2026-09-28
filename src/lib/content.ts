@@ -2,6 +2,7 @@ import { cache } from "react";
 
 import { articles } from "@/content/artigos";
 import { flowers } from "@/content/flores";
+import { gestos } from "@/content/gestos";
 import {
   aromas,
   characteristics,
@@ -17,6 +18,7 @@ import type {
   Color,
   Combination,
   Flower,
+  Gesto,
   Meaning,
   Occasion,
 } from "@/lib/types";
@@ -60,6 +62,7 @@ function assertContentIntegrity() {
     [occasions.map((o) => o.slug), "slug", "occasions"],
     [combinations.map((c) => c.slug), "slug", "combinations"],
     [articles.map((a) => a.slug), "slug", "articles"],
+    [gestos.map((g) => g.slug), "slug", "gestos"],
   ] as const) {
     unique(list, field, owner);
   }
@@ -86,6 +89,17 @@ function assertContentIntegrity() {
     assertRefs(a.related.characteristics ?? [], characteristicSlugs, "related.characteristics", a.slug);
   }
 
+  for (const g of gestos) {
+    assertRefs(g.flowerSlugs, flowerSlugs, "flowerSlugs", g.slug);
+    assertRefs(g.meaningSlugs, meaningSlugs, "meaningSlugs", g.slug);
+    assertRefs(g.guideSlugs ?? [], articleSlugs, "guideSlugs", g.slug);
+    if (g.occasionSlug && !occasionSlugs.has(g.occasionSlug)) {
+      throw new Error(`Conteúdo: "gestos.${g.slug}" referencia ocasião inexistente "${g.occasionSlug}"`);
+    }
+    if (g.flowerSlugs.length < 3) throw new Error(`Conteúdo: gesto "${g.slug}" com menos de 3 flores`);
+    if (g.description.length < 2) throw new Error(`Conteúdo: gesto "${g.slug}" com descrição curta demais`);
+  }
+
   void articleSlugs;
 }
 
@@ -99,6 +113,7 @@ const published = <T extends { status: string }>(items: T[]) =>
   items.filter((i) => i.status === "published");
 
 export const getAllFlowers = cache((): Flower[] => published(flowers));
+export const getAllGestos = cache((): Gesto[] => published(gestos));
 export const getAllColors = cache((): Color[] => published(colors));
 export const getAllMeanings = cache((): Meaning[] => published(meanings));
 export const getAllOccasions = cache((): Occasion[] => published(occasions));
@@ -107,6 +122,14 @@ export const getAllCombinations = cache((): Combination[] => published(combinati
 export const getAllArticles = cache((): Article[] => published(articles));
 
 export const getFlower = cache((slug: string) => getAllFlowers().find((f) => f.slug === slug));
+export const getGesto = cache((slug: string) => getAllGestos().find((g) => g.slug === slug));
+/** Gestos que envolvem uma flor (ex.: rosa → declarar, reatar, pedir a mão). */
+export const getGestosByFlower = cache((slug: string) =>
+  getAllGestos().filter((g) => g.flowerSlugs.includes(slug)),
+);
+export const getGestosByMeaning = cache((slug: string) =>
+  getAllGestos().filter((g) => g.meaningSlugs.includes(slug)),
+);
 export const getColor = cache((slug: string) => getAllColors().find((c) => c.slug === slug));
 export const getMeaning = cache((slug: string) => getAllMeanings().find((m) => m.slug === slug));
 export const getOccasion = cache((slug: string) => getAllOccasions().find((o) => o.slug === slug));
@@ -117,6 +140,16 @@ export const getCombination = cache((slug: string) =>
   getAllCombinations().find((c) => c.slug === slug),
 );
 export const getArticle = cache((slug: string) => getAllArticles().find((a) => a.slug === slug));
+
+/** Minutos de leitura de um artigo (≈200 palavras por minuto, corpo + FAQ). */
+export const getReadingMinutes = cache((article: Article): number => {
+  const body = [
+    ...article.sections.flatMap((s) => [...s.paragraphs, ...(s.list ?? [])]),
+    ...(article.faqs ?? []).flatMap((f) => [f.question, f.answer]),
+  ].join(" ");
+  const words = body.split(/\s+/).filter(Boolean).length;
+  return Math.max(1, Math.round(words / 200));
+});
 
 /* Relacionamentos inversos (rede semântica) */
 
@@ -190,7 +223,14 @@ export const getCharacteristicsBySlugs = cache((slugs: string[] = []): Character
 /* Busca                                                               */
 /* ------------------------------------------------------------------ */
 
-export type SearchDocType = "flor" | "significado" | "cor" | "ocasiao" | "guia" | "caracteristica";
+export type SearchDocType =
+  | "gesto"
+  | "flor"
+  | "significado"
+  | "cor"
+  | "ocasiao"
+  | "guia"
+  | "caracteristica";
 
 export interface SearchDoc {
   type: SearchDocType;
@@ -208,6 +248,7 @@ export const normalizeText = (value: string) =>
     .trim();
 
 const typeLabel: Record<SearchDocType, string> = {
+  gesto: "Gesto",
   flor: "Flor",
   significado: "Significado",
   cor: "Cor",
@@ -220,6 +261,18 @@ export const searchTypeLabel = (type: SearchDocType) => typeLabel[type];
 
 export const buildSearchIndex = cache((): SearchDoc[] => {
   const docs: SearchDoc[] = [];
+
+  for (const g of getAllGestos()) {
+    docs.push({
+      type: "gesto",
+      title: `Gesto: ${g.name}`,
+      description: g.hook,
+      href: `/gestos/${g.slug}`,
+      haystack: normalizeText(
+        [g.name, g.hook, g.description.join(" "), g.guidance.join(" "), g.flowerSlugs.join(" ")].join(" "),
+      ),
+    });
+  }
 
   for (const f of getAllFlowers()) {
     docs.push({

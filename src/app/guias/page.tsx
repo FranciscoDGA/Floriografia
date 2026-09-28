@@ -3,7 +3,7 @@ import Link from "next/link";
 
 import { JsonLd } from "@/components/json-ld";
 import { PageHeader } from "@/components/page-header";
-import { getAllArticles } from "@/lib/content";
+import { getAllArticles, getReadingMinutes } from "@/lib/content";
 import { itemListJsonLd } from "@/lib/jsonld";
 import { pageMetadata } from "@/lib/seo";
 
@@ -21,8 +21,8 @@ export default function GuiasPage() {
     <>
       <PageHeader
         title="Guias"
-        eyebrow="Leituras"
-        description="Conteúdo editorial para decidir com segurança. Sem fórmulas universais: cada guia diz o que varia e o que observar."
+        eyebrow="Leituras do coração"
+        description="Textos para os momentos em que você sabe o que quer dizer, mas ainda não sabe como: o primeiro buquê, o cartão em branco, a flor que dura, o presente que não tem data."
         breadcrumbs={[{ name: "Guias", path: "/guias" }]}
       />
 
@@ -37,17 +37,12 @@ export default function GuiasPage() {
               <h2 className="font-display text-xl font-semibold text-leaf">{article.title}</h2>
               <p className="mt-3 text-sm leading-relaxed text-ink-2">{article.excerpt}</p>
               <p className="mt-4 flex items-center justify-between text-xs text-ink-2">
-                <span>{article.sections.length} seções</span>
+                <span>{getReadingMinutes(article)} min de leitura</span>
                 <span className="font-semibold uppercase tracking-[0.16em] text-bloom">Ler guia →</span>
               </p>
             </Link>
           ))}
         </div>
-
-        <p className="mt-8 text-sm text-ink-2">
-          Também no acervo: <a href="/artigos" className="text-leaf-2 underline underline-offset-4 hover:text-bloom">/artigos</a>{" "}
-          redireciona para esta mesma listagem — um único destino para o conteúdo editorial.
-        </p>
       </div>
 
       <JsonLd
