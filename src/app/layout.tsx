@@ -43,6 +43,10 @@ export const metadata: Metadata = {
     description: SITE.description,
   },
   robots: { index: true, follow: true },
+  // Verificação do Search Console (GSC_VERIFICATION) — só é emitida a tag quando a env existe.
+  ...(process.env.GSC_VERIFICATION
+    ? { verification: { google: process.env.GSC_VERIFICATION.trim() } }
+    : {}),
   formatDetection: { telephone: false, address: false, email: false },
 };
 
