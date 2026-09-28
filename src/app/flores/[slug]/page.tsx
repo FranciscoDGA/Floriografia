@@ -51,6 +51,9 @@ interface Props {
   params: Promise<{ slug: string }>;
 }
 
+/** Slugs fora do acervo respondem 404 de verdade (sem render on-demand). */
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return getAllFlowers().map((flower) => ({ slug: flower.slug }));
 }
